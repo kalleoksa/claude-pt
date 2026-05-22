@@ -12,7 +12,7 @@ Profiiliin tarkennettiin vasemman polven tilanne: ACL-puutoksen lisäksi nivelri
 
 | Liike | v1 | v1.1 | Syy |
 |-------|----|----|-----|
-| Etukyykky | 3×5, täysi liikelaajuus | **Box squat 3×5, pysähdys ~90° polvikulmassa** | Etukyykky kivuton vain 90°-kulmaan asti — box squat antaa toistettavan syvyysrajoitteen ja säilyttää voimaharjoittelun. |
+| Etukyykky | 3×5, täysi liikelaajuus | **Etukyykky laatikolle, pysähdys ~90° polvikulmassa** | Etukyykky kivuton vain 90°-kulmaan asti — laatikko antaa toistettavan syvyysrajoitteen ja säilyttää tutun liikemallin (1RM ~90 kg). |
 | Bulgarian split squat | 3×8/jalka | **Askelkyykky (lunge), pystysääri, 3×8/jalka** | Askelkyykyssä etusääri pystympi → vähemmän polvikulmaa kuormassa. Yhden jalan hallinta säilyy. |
 | Nordic hamstring | 2×3–5 | **Pois ohjelmasta**. Tilalle: lisäsarja yhden jalan RDL:ää ja kuminauha-hamstring-curl. | Nordic kuormittaa polvea avoimessa ketjussa eksentrisesti — ei sovellu nivelrikolle. Suljettu ketju (yhden jalan RDL) tuottaa hamstring-eksentrisen kuormituksen polvea ärsyttämättä. |
 
@@ -25,7 +25,7 @@ Päätavoite on urheilusuorituskyvyn tukeminen (koripallo, jalkapallo, lumilauta
 Kolme prioriteettia ohjelmoinnissa:
 
 1. **Vasemman polven kokonaisuus** (ACL-puutos + nivelrikko + reisiluun virheasento). Pakara- ja hamstring-voima sekä yhden jalan hallinta keskiössä — polven valgusta ehkäistään lonkasta ja pakarasta käsin ([urheiluvammat-leppanen.md](../../knowledge/research/refined/urheiluvammat-leppanen.md)). Polven kulmat pidetään kivuttomalla alueella, eksentrinen kuormitus suljetun kineettisen ketjun liikkeissä.
-2. **Perusvoiman ylläpito ja maltillinen kehitys**. Maastaveto runkona; box squat antaa toistettavan kyykkystimuluksen ilman polven syvää kuormitusta. ([voimaharjoittelu-tule-terveys.md](../../knowledge/research/refined/voimaharjoittelu-tule-terveys.md))
+2. **Perusvoiman ylläpito ja maltillinen kehitys**. Maastaveto runkona; etukyykky laatikolle antaa toistettavan kyykkystimuluksen ilman polven syvää kuormitusta. ([voimaharjoittelu-tule-terveys.md](../../knowledge/research/refined/voimaharjoittelu-tule-terveys.md))
 3. **Istumatyön kompensointi**. Lonkankoukistajien ja rintarangan dynaaminen mobilisointi lämmittelyssä. ([toiminnallinen-liikkuvuus.md](../../knowledge/research/refined/toiminnallinen-liikkuvuus.md))
 
 ## Viikkorakenne
@@ -65,7 +65,7 @@ Ydinperiaate: salitreenin ja pallopelin väliin **vähintään 24 h**, mielellä
 
 | # | Liike | Sarjat × toistot | RIR | Huomiot |
 |---|-------|------------------|-----|---------|
-| A1 | **Box squat** (penkki tai laatikko ~polven korkeudella, pysähdys ~90° polvikulmassa) | 3 × 5 | 3 | Korvaa etukyykyn. Aloituspaino ~60 kg, säädä syvyys laatikolla. Istahdus laatikolle, ei pudotusta. Pidä polvi linjassa varpaiden kanssa, älä päästä sisäänpäin. |
+| A1 | **Etukyykky laatikolle** (penkki tai laatikko säädetty siten että polvi pysähtyy ~90°-kulmaan) | 3 × 5 | 3 | Tuttu liike, syvyysrajoite uusi. Aloituspaino ~65 kg. Lyhyt pysähdys laatikolla, ei pudotusta eikä pomppausta ylös. Pidä polvi linjassa varpaiden kanssa, älä päästä sisäänpäin. Säädä laatikon korkeus niin että polvi ei mene yli 90°. |
 | A2 | **Askelkyykky** (lunge, hantelit) | 3 × 8/jalka | 2 | Korvaa Bulgarian split squatin. Pidä etusääri pystyssä — askel pitkä, ei syvä etupolven kulma. Heikomman (vas.) puolen tulokset määräävät kuorman. |
 | A3a | Penkkipunnerrus tai pystypunnerrus (vuoroviikoin) | 3 × 6–8 | 2 | Vapailla painoilla. |
 | A3b | Yhden käden hantelisoutu | 3 × 8/puoli | 2 | Pari A3a:n kanssa. |
@@ -74,7 +74,7 @@ Ydinperiaate: salitreenin ja pallopelin väliin **vähintään 24 h**, mielellä
 
 **Perustelu muutoksiin:**
 
-- **Box squat etukyykyn sijaan:** laatikko antaa toistettavan syvyysrajoitteen, jolla polvikulma ei mene kipualueelle. Vaihtoehto puolikyykylle, jossa syvyys vaihtelee toistosta toiseen. Voimaharjoituksen luustostimulus ja takaketjun aktivointi säilyy ([voimaharjoittelu-tule-terveys.md](../../knowledge/research/refined/voimaharjoittelu-tule-terveys.md)).
+- **Etukyykky laatikolle täyden liikelaajuuden sijaan:** laatikko antaa toistettavan syvyysrajoitteen, jolla polvikulma ei mene kipualueelle. Vaihtoehto puolikyykylle, jossa syvyys vaihtelee toistosta toiseen. Tuttu liikemalli säilyy (etukyykky 1RM ~90 kg), pysähdys laatikolla katkaisee elastisen ylösponnistuksen ja vaatii puhdasta voimantuottoa. Voimaharjoituksen luustostimulus ja takaketjun aktivointi säilyy ([voimaharjoittelu-tule-terveys.md](../../knowledge/research/refined/voimaharjoittelu-tule-terveys.md)).
 - **Askelkyykky Bulgarian split squatin sijaan:** etusääri pystymmässä asennossa kuin Bulgariassa, jossa takajalan koroke pakottaa etupolven enemmän eteen. Yhden jalan hallinta ja pakara-aktivaatio säilyvät, polvikulma pienempi.
 
 ## Treeni B — Lonkkadominantti + veto
@@ -98,15 +98,15 @@ Ydinperiaate: salitreenin ja pallopelin väliin **vähintään 24 h**, mielellä
 
 Toistovaran aaltoiluttaminen ja kuormaprogressio rinnakkain ([toistovarapohjainen-ohjelmointi.md](../../knowledge/research/refined/toistovarapohjainen-ohjelmointi.md)). Sarjojen ja toistojen määrä pysyy samana; **kuorma nousee viikoittain ja RIR laskee**.
 
-| Viikko | A1 box squat | B1 maastaveto | Yleinen RIR | Tunto |
-|--------|--------------|---------------|-------------|-------|
-| 1 | 3×5 @ 60 kg | 3×5 @ 140 kg | 3 | Opettele tekniikkaa ja box squatin syvyys |
-| 2 | 3×5 @ 62,5 kg | 3×5 @ 145 kg | 3 | Edelleen varaa |
-| 3 | 3×5 @ 65 kg | 3×5 @ 150 kg | 2 | Alkaa tuntua |
-| 4 | 3×5 @ 67,5 kg | 3×5 @ 155 kg | 1–2 | Raskasta mutta hallittua |
-| 5 (kev.) | 2×5 @ 55 kg | 2×5 @ 130 kg | 4 | Kevennysviikko |
+| Viikko | A1 etukyykky laatikolle | B1 maastaveto | Yleinen RIR | Tunto |
+|--------|-------------------------|---------------|-------------|-------|
+| 1 | 3×5 @ 65 kg | 3×5 @ 140 kg | 3 | Opettele laatikon korkeus ja pysähdyksen tempo |
+| 2 | 3×5 @ 67,5 kg | 3×5 @ 145 kg | 3 | Edelleen varaa |
+| 3 | 3×5 @ 70 kg | 3×5 @ 150 kg | 2 | Alkaa tuntua |
+| 4 | 3×5 @ 72,5 kg | 3×5 @ 155 kg | 1–2 | Raskasta mutta hallittua |
+| 5 (kev.) | 2×5 @ 60 kg | 2×5 @ 130 kg | 4 | Kevennysviikko |
 
-Box squatin aloituspaino on matalampi kuin v1:n etukyykyssä (60 vs. 70 kg) — uusi liike, opettele syvyys ja tekniikka ennen kuorman nostoa.
+Etukyykyn aloituspaino on hieman matalampi kuin v1:ssä (65 vs. 70 kg) — pysähdys laatikolla katkaisee elastisen palautteen alaponnistuksessa, joten sama paino tuntuu raskaammalta kuin täydessä liikelaajuudessa.
 
 Kuormat ovat ehdotuksia. Säätö ensimmäisen viikon kokemuksen perusteella — jos RIR 3 toteutuu eri painolla, käytä sitä.
 
@@ -114,7 +114,7 @@ Kuormat ovat ehdotuksia. Säätö ensimmäisen viikon kokemuksen perusteella —
 
 ## Mitä tämä ohjelma EI sisällä (ja miksi)
 
-- **Takakyykky ja syvä etukyykky:** polven kulma kipualueella → pois.
+- **Takakyykky ja syvä (alle 90°) etukyykky:** polven kulma kipualueella → pois.
 - **Nordic hamstring:** ei sovellu nivelrikolle (perusteltu yllä).
 - **Bulgarian split squat:** polvikulma syvempi kuin askelkyykyssä → korvataan kunnes polven tila tunnetaan paremmin.
 - **Plyometriikka / pudotushypyt:** pallopelit antavat jo iskutuskuormaa. Lisätään myöhempään mesosykliin lajinomaisena suorituskykyvalmennuksena.
@@ -136,5 +136,5 @@ Profiilista täydennettäväksi seuraavaa kierrosta varten:
 
 - Penkkipunnerruksen ja pystypunnerruksen arvioidut työpainot/1RM
 - Leukavetojen nykytaso (montako toistoa puhdasta)
-- Onko box squat tai askelkyykky tuttuja liikkeitä — vaaditaanko progressiivisempaa aloitusta?
+- Onko pysähdyksellinen etukyykky (laatikolle) tai askelkyykky tuttuja liikkeitä — vaaditaanko progressiivisempaa aloitusta?
 - Onko nivelrikon kanssa identifioitavia "tuottoisia" liikkeitä, jotka eivät ärsytä lainkaan (saatetaan painottaa)?
