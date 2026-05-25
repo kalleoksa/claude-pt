@@ -72,7 +72,7 @@ Soutu, pyöräily tai hyppynaru kevyesti.
 
 | # | Liike | Sarjat × toistot | RIR | Huomiot |
 |---|-------|------------------|-----|---------|
-| A1 | **Hang power clean — tekniikkaharjoitus** | 4 × 3 | — | Tekniikkapainoilla (30–40 kg). Ei sarjakohtaista RIR-tavoitetta — fokus puhtaaseen suoritukseen. Kädet hartialevyinen ote, tanko reidessä roikkumisasennosta, laukaisupiste lantio ylöspäin, vastaanotto rack positioniin. Kuorma ei nouse ennen kuin tekniikka vakaa. |
+| A1 | **Hang power clean** | 4 × 3 | — | Tuttu liike — aloitetaan työkuormilla (~50–60 kg). Fokus bar pathin ja catch-asennon laadussa: kyynärpäät nopeasti eteen rack positioniin, joustava vastaanotto. 3 toistoa sarjassa pitää tekniikan puhtaana — ei väsymystä. Kuorma nousee vain jos catch-asento säilyy siistinä. |
 | A2 | **Takakyykky** | 4 × 8–10 | 2 | Aloituspaino ~55 kg. Täysi liikelaajuus kun polvet ja selkä sen sallivat. Jos selkä kipeytyy, tarkista asento — ei liiallista eteentaivutusta. |
 | A3 | **Goblet kyykky** | 3 × 12–15 | 1 | Hanteli tai kettlebell rintaa vasten. Harjoittaa rintarangan asennon ja ranteen asentoa rinnallevedon rack positionia varten. Kantapäät alas, polvet leveitä, rinta auki. |
 | A4 | **Askelkyykky eteen** (hantelit) | 3 × 10/jalka | 2 | Pitkä askel, polvea ei tarvitse viedä maan lähelle. Etusääri pystymmässä asennossa → polven kuormitus maltillisempi. |
@@ -90,21 +90,24 @@ Soutu, pyöräily tai hyppynaru kevyesti.
 
 | # | Liike | Sarjat × toistot | RIR | Huomiot |
 |---|-------|------------------|-----|---------|
-| B1 | **Leuanveto — progressio** | 4 × max (-1) | — | Katso progressiotaulukko alla. Jokainen sarja päättyy kun seuraava toisto ei enää osu puhtaaksi — ei väsymykseen asti. |
-| B2 | **Ylätalja leveällä otteella** (tai kapea neutraali) | 3 × 10–12 | 2 | Tukee leuanvetoprogressiota. Ajattele kyynärpäät alas taaksepäin, ei käsillä vetämistä. |
+| B1 | **Leuanveto lisäpainolla** (myötäote, vyöpaino tai hanteli jalkavälissä) | 4 × 6–8 | 2 | 10–12 kehonpainotoistoa → siirrytään lisäpainoon hypertrofian kannalta järkevällä toistoalueella. Aloituspaino +5–10 kg. Vaihda otetta: viikko 1–2 myötäote, viikko 3–4 neutraali ote (jos sali tarjoaa). |
+| B2 | **Ylätalja leveällä otteella** | 3 × 10–12 | 2 | Lisävolyymi vetoon. Erityisesti leveitä selkälihaksia. Ajattele kyynärpäät alas taaksepäin, ei käsillä vetämistä. |
 | B3 | **Penkkisoutu** (hanteli tai tanko) | 4 × 10–12 | 2 | Lapaluut liikkeeseen mukaan. Hyvä vastinpari punnertamiselle — kompensoi rintarangan kuormitusta pyöräilystä. |
 | B4 | **Pystypunnerrus** (hantelit) | 3 × 10–12 | 2 | Hantelit vapaampaa liikerataa varten kuin tanko → olkapää mukautuu → vähemmän riskiä. Kyynärpäät hieman eteen, ei leveälle. |
 | B5 | **Olkapään ulkokierto hantelilla, eksentrinen** | 2 × 12/puoli | 1 | Rotator cuff -ennaltaehkäisy. Käsi 90° kulmassa, hidas laskuvaihe (3 s). Tärkeä koska olkapää on leikattu ja punnerrus toisinaan kipeytyy. |
 | B6 | **Hauiskääntö** (hantelit tai käyrätanko) | 2 × 12–15 | 1 | Harjoituksen loppupuolella. Lähellä uupumusta sallittua turvallisessa eristävässä liikkeessä. |
 
-**Leuanvetoprogressio (viikko viikolta):**
+**Leuanvedon progressio (lähtötaso: 10–12 toistoa kehonpainolla):**
 
-| Nykytaso | Progressio |
-|----------|-----------|
-| 0–2 toistoa | Avustettu leuanveto (kuminauha tai laite) 4 × 5–6 |
-| 3–5 toistoa | Täydet leuanvedot max + laskeva sarja avustettuna |
-| 6–8 toistoa | 4 × max(-1), lisää kuormaa kun 3 sarjaa yli 8 |
-| 9+ toistoa | Lisäpaino vyöhön, 4 × 6–8 |
+| Viikko | Lisäpaino | Tavoite |
+|--------|-----------|---------|
+| 1 | +5 kg | 4 × 6–8 @ RIR 2, tutki sopiva lisäpaino |
+| 2 | +5–7,5 kg | 4 × 6–8 @ RIR 2 |
+| 3 | +7,5–10 kg | 4 × 6–8 @ RIR 1–2 |
+| 4 | +10 kg | 4 × 5–6 @ RIR 1 |
+| 5 (kev.) | kehonpaino | 3 × 8, RIR 3 |
+
+Kun saat 4 × 8 samalla lisäpainolla @ RIR 2, nosta painoa seuraavaan mesosykliin.
 
 **Perustelut:**
 - **Veto ennen punnertamista** — selkä ja hauislihas saavat päähuomion, punnerrus toissijainen tässä treenissä.
@@ -176,10 +179,11 @@ Viikko 5 loppu: Arvioidaan kyykkyasento — onko rintaranka auki, pysyykö kämm
 Mesosykli 2: Siirrytään etukyykkyyn kevyillä painoilla (≤ 50 % arvioidusta 1RM)
 
 ### Rinnallevedon progressio
-Vk 1–2: Hang power clean tekniikka (30–40 kg), focus laukaisuun ja rack positioniin  
-Vk 3–4: Lisää kepin nopeus — tanko "pomppaa" reideltä, ei vetämistä käsillä  
-Vk 5: Arvioidaan — onko rack position mukava? Päätös jatkosuunnasta.  
-Mesosykli 2: Aloitetaan clean pull (täysi vetoliike ilman vastaanottoa) tai siirrytään hang cleaniin
+Liike on tuttu → aloitetaan työkuormilla, fokus laadun hiomisessa  
+Vk 1–2: ~50–60 kg, 4 × 3 — tarkistetaan catch-asento ja kyynärpäiden nopeus  
+Vk 3–4: +2,5–5 kg jos tekniikka puhdas — ei lisätä kuormaa ennen kuin catch on vakaa  
+Vk 5 (kev.): kevyemmät painot, puhdas tekniikka  
+Mesosykli 2: Siirrytään hang cleaniin (täysi vastaanotto, joustava kyykkyasento) tai lisätään kuormaa hang power cleaniin
 
 ---
 
@@ -237,7 +241,7 @@ Käydään läpi mesosyklin lopussa (5 vk kuluttua):
 
 ## Avoimet kysymykset (täydennetään v2:ta varten)
 
-- Leukavetojen nykytaso — montako puhdasta toistoa?
-- Onko kokemusta hang power cleanista tai muista painonnostoliikkeistä?
+- ~~Leukavetojen nykytaso~~ — selvitetty: 10–12 (vastaliike), 8–10 (myötäote) → lisäpaino käyttöön
+- ~~Hang power clean tuttu~~ — selvitetty: tuttu liike → aloitetaan työkuormilla
 - Penkkipunnerruksen ja pystypunnerruksen arvioidut työkuormat
 - Miten selkä reagoi maastavedon jälkeen (seuraavana päivänä)?
