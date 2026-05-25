@@ -23,10 +23,16 @@ Kaikki sisältö suomeksi: ohjelmat, keskustelu, dokumentaatio.
 ## Harjoitusohjelman rakenne
 
 Kun teet harjoitusohjelman:
-1. Lue henkilöprofiili
-2. Lue relevantit tutkimusdokumentit
-3. Perustele liikevalinnat lyhyesti (miksi juuri tämä liike tälle henkilölle)
-4. Tallenna ohjelma kansioon `/plans/[henkilö]/`
+1. Lue henkilöprofiili (`/knowledge/persons/[henkilö].md`)
+2. Lue relevantit tutkimusdokumentit (`/knowledge/research/refined/`)
+3. Käytä pohjana `/templates/training-program-template.md`
+4. Perustele liikevalinnat lyhyesti (miksi juuri tämä liike tälle henkilölle)
+5. Tallenna ohjelma kansioon `/plans/[henkilö]/`
+
+### Ohjelmaversiointi
+- Ensimmäinen ohjelma: `ohjelma-v1.md`
+- Päivitykset: `ohjelma-v2.md` jne. — älä ylikirjoita vanhaa
+- Merkitse aina muutokset edelliseen versioon (`## Muutokset edellisestä versiosta` -osioon)
 
 ## Tiedostorakenne
 
