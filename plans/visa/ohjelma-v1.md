@@ -20,8 +20,9 @@ Päätavoite on lihasmassan kasvu ja kehonkoostumuksen parantaminen. Ohjelma rak
 
 - **20 vuoden harjoitustausta** → kokenut harjoittelija. Tutkimusnäytön mukaan kokeneemmilla suurempi absoluuttinen kuorma tuottaa enemmän väsymystä — pääliikkeissä aloitetaan RIR 3 ja lasketaan viikon edetessä ([toistovarapohjainen-ohjelmointi.md](../../knowledge/research/refined/toistovarapohjainen-ohjelmointi.md)).
 - **Hypertrofia ensisijaisena tavoitteena** → pääosa harjoittelusta RIR 1–3, turvallisissa eristävissä liikkeissä ajoittain RIR 0.
-- **Selkä ja olkapäät** → rintarangan liikkuvuustyö joka lämmittelyssä, punnerruksen volyymia seurataan ensimmäinen mesosykli.
-- **Istumatyö** → lonkankoukistajat ja rintaranka huomioidaan lämmittelyssä.
+- **Selkä ja olkapäät** → rintarangan liikkuvuustyö joka lämmittelyssä, punnerruksen volyymia seurataan ensimmäinen mesosykli. Rotator cuff -ennaltaehkäisy joka ylävartalotreeni ([urheiluvammat-leppanen.md](../../knowledge/research/refined/urheiluvammat-leppanen.md)).
+- **Istumatyö** → lonkankoukistajat ja rintaranka huomioidaan lämmittelyssä. Ketjuliikkuvuus joka sessio ([toiminnallinen-liikkuvuus.md](../../knowledge/research/refined/toiminnallinen-liikkuvuus.md)).
+- **Voimaharjoittelu selkäkivun yhteydessä** → maastaveto ja moninivelliikkeet turvallisia ja tehokkaita — tekniikka ratkaisee ([voimaharjoittelu-tule-terveys.md](../../knowledge/research/refined/voimaharjoittelu-tule-terveys.md)).
 - **Etukyykky haastava** → v1:ssä käytetään goblet kyykkyä, joka kehittää samanaikaisesti rintarangan liikkuvuutta, ranteen asentoa ja kyykkymekaaniikkaa ilman suuria kuormia. Siirtymä etukyykkyyn seuraavassa mesosyklissä.
 - **Painonnostoliikkeet** → aloitetaan hang power cleanilla, jossa liikerata lyhyempi ja tekninen vaatimus pienempi kuin täydessä rinnallevedossa. Edellyttää rintaranka- ja rannelijokkuvuuden kehittymistä.
 

@@ -56,6 +56,7 @@ Kun saat uutta raakamateriaalia:
    - Keskeiset periaatteet (nopeat toimintaohjeet)
    - Käytännön ohjelmointi (liikevalinnat, toistot, sarjat, progressio)
    - Lähdeviite raakadokumenttiin
+4. **Commitoi tutkimusdokumentit aina suoraan `main`-haaraan** — ne ovat jaettua tietoa joka koskee kaikkia henkilöitä, ei henkilökohtaisia ohjelmia
 
 ## Ohjelmoinnin periaatteet
 
