@@ -90,7 +90,7 @@ Soutu, pyöräily tai hyppynaru kevyesti.
 
 | # | Liike | Sarjat × toistot | RIR | Huomiot |
 |---|-------|------------------|-----|---------|
-| B1 | **Leuanveto lisäpainolla** (myötäote, vyöpaino tai hanteli jalkavälissä) | 4 × 6–8 | 2 | 10–12 kehonpainotoistoa → siirrytään lisäpainoon hypertrofian kannalta järkevällä toistoalueella. Aloituspaino +5–10 kg. Vaihda otetta: viikko 1–2 myötäote, viikko 3–4 neutraali ote (jos sali tarjoaa). |
+| B1 | **Leuanveto kehonpainolla** (otetta vaihdetaan viikoittain) | 5 × 8–10 | 1–2 | Hidas eksentrinen laskuvaihe (4–5 s alas). Ei lisäpainoa — ikä ja olkapään historia huomioitu. Hypertrofia saavutetaan hidastamalla tempoa ja kasvattamalla volyymiä. Otekierto: vk 1–2 vastaliike (supinated), vk 3–4 neutraali tai leveä myötäote. |
 | B2 | **Ylätalja leveällä otteella** | 3 × 10–12 | 2 | Lisävolyymi vetoon. Erityisesti leveitä selkälihaksia. Ajattele kyynärpäät alas taaksepäin, ei käsillä vetämistä. |
 | B3 | **Penkkisoutu** (hanteli tai tanko) | 4 × 10–12 | 2 | Lapaluut liikkeeseen mukaan. Hyvä vastinpari punnertamiselle — kompensoi rintarangan kuormitusta pyöräilystä. |
 | B4 | **Pystypunnerrus** (hantelit) | 3 × 10–12 | 2 | Hantelit vapaampaa liikerataa varten kuin tanko → olkapää mukautuu → vähemmän riskiä. Kyynärpäät hieman eteen, ei leveälle. |
@@ -99,15 +99,15 @@ Soutu, pyöräily tai hyppynaru kevyesti.
 
 **Leuanvedon progressio (lähtötaso: 10–12 toistoa kehonpainolla):**
 
-| Viikko | Lisäpaino | Tavoite |
-|--------|-----------|---------|
-| 1 | +5 kg | 4 × 6–8 @ RIR 2, tutki sopiva lisäpaino |
-| 2 | +5–7,5 kg | 4 × 6–8 @ RIR 2 |
-| 3 | +7,5–10 kg | 4 × 6–8 @ RIR 1–2 |
-| 4 | +10 kg | 4 × 5–6 @ RIR 1 |
-| 5 (kev.) | kehonpaino | 3 × 8, RIR 3 |
+| Viikko | Sarjat × toistot | Eksentrinen | Ote | RIR |
+|--------|-----------------|-------------|-----|-----|
+| 1 | 5 × 8–10 | 4 s alas | Vastaliike | 2 |
+| 2 | 5 × 8–10 | 4 s alas | Vastaliike | 1–2 |
+| 3 | 5 × 8–10 | 5 s alas | Neutraali / leveä myötäote | 2 |
+| 4 | 5 × 8–10 | 5 s alas | Neutraali / leveä myötäote | 1 |
+| 5 (kev.) | 3 × 8 | normaali tempo | Vapaa valinta | 3 |
 
-Kun saat 4 × 8 samalla lisäpainolla @ RIR 2, nosta painoa seuraavaan mesosykliin.
+Hidas eksentrinen tekee kehonpainotoistoista riittävän haastavia hypertrofian kannalta ilman lisänivelkuormaa. Toistovaratutkimuksen mukaan kevyillä kuormilla lähellä uupumusta harjoittelu on hypertrofialle erityisen tärkeää — tämä toteutuu 5 s eksentrisen ja matalan RIR:n yhdistelmällä.
 
 **Perustelut:**
 - **Veto ennen punnertamista** — selkä ja hauislihas saavat päähuomion, punnerrus toissijainen tässä treenissä.
@@ -241,7 +241,7 @@ Käydään läpi mesosyklin lopussa (5 vk kuluttua):
 
 ## Avoimet kysymykset (täydennetään v2:ta varten)
 
-- ~~Leukavetojen nykytaso~~ — selvitetty: 10–12 (vastaliike), 8–10 (myötäote) → lisäpaino käyttöön
+- ~~Leukavetojen nykytaso~~ — selvitetty: 10–12 (vastaliike), 8–10 (myötäote) → kehonpaino + hidas eksentrinen
 - ~~Hang power clean tuttu~~ — selvitetty: tuttu liike → aloitetaan työkuormilla
 - Penkkipunnerruksen ja pystypunnerruksen arvioidut työkuormat
 - Miten selkä reagoi maastavedon jälkeen (seuraavana päivänä)?
