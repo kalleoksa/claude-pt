@@ -67,7 +67,7 @@ Ydinperiaate: salitreenin ja pallopelin väliin **vähintään 24 h**, mielellä
 |---|-------|------------------|-----|---------|
 | A1 | **Etukyykky laatikolle** (penkki tai laatikko säädetty siten että polvi pysähtyy ~90°-kulmaan) | 3 × 5 | 3 | Aloituspaino ~95 kg (n. 78 % arvioidusta 1RM:stä 120 kg). Lyhyt pysähdys laatikolla, ei pudotusta eikä pomppausta ylös. Pidä polvi linjassa varpaiden kanssa, älä päästä sisäänpäin. Säädä laatikon korkeus niin että polvi ei mene yli 90°. |
 | A2 | **Askelkyykky** (lunge, hantelit) | 3 × 8/jalka | 2 | Korvaa Bulgarian split squatin. Pidä etusääri pystyssä — askel pitkä, ei syvä etupolven kulma. Heikomman (vas.) puolen tulokset määräävät kuorman. |
-| A3a | Penkkipunnerrus tai pystypunnerrus (vuoroviikoin) | 3 × 6–8 | 2 | Vapailla painoilla. |
+| A3a | Vinopenkkipunnerrus 15° tai pystypunnerrus (vuoroviikoin) | 3 × 6–8 | 2 | Vapailla painoilla. 15° vinopenkki toimii käytännössä tasapenkkinä ([penkkipunnerrus-kulma-ja-biomekaniikka.md](../../knowledge/research/refined/penkkipunnerrus-kulma-ja-biomekaniikka.md)). |
 | A3b | Yhden käden hantelisoutu | 3 × 8/puoli | 2 | Pari A3a:n kanssa. |
 | A4 | Pohkeen punnerrus (yhdellä jalalla) | 2 × 12/jalka | 1 | Akilles- ja jalkapöydän tuki. |
 | A5 | Pallof press (anti-rotaatio, kuminauha) | 2 × 10/puoli | 2 | Dynaaminen keskivartalon hallinta. |
