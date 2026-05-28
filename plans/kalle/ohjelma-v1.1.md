@@ -63,14 +63,14 @@ Ydinperiaate: salitreenin ja pallopelin väliin **vähintään 24 h**, mielellä
 
 ## Treeni A — Polvidominantti + työntö
 
-| # | Liike | Sarjat × toistot | RIR | Huomiot |
-|---|-------|------------------|-----|---------|
-| A1 | **Etukyykky laatikolle** (penkki tai laatikko säädetty siten että polvi pysähtyy ~90°-kulmaan) | 3 × 5 | 3 | Aloituspaino ~95 kg (n. 78 % arvioidusta 1RM:stä 120 kg). Lyhyt pysähdys laatikolla, ei pudotusta eikä pomppausta ylös. Pidä polvi linjassa varpaiden kanssa, älä päästä sisäänpäin. Säädä laatikon korkeus niin että polvi ei mene yli 90°. |
-| A2 | **Askelkyykky** (lunge, hantelit) | 3 × 8/jalka | 2 | Korvaa Bulgarian split squatin. Pidä etusääri pystyssä — askel pitkä, ei syvä etupolven kulma. Heikomman (vas.) puolen tulokset määräävät kuorman. |
-| A3a | Vinopenkkipunnerrus 15° käsipainoilla **tai** pystypunnerrus (vuoroviikoin) | 3 × 6–8 | 2 | Aloituspainot RIR 2 -tavoitteeseen: **vinopenkki 2 × 22,5 kg**, **pystypunnerrus 42,5 kg**. Nykyiset 3×8-maksimit (2×24 kg vino, 45 kg pysty) tavoitellaan viikolla 3–4 RIR-toleranssin mukaan. 15° vinopenkki toimii käytännössä tasapenkkinä ([penkkipunnerrus-kulma-ja-biomekaniikka.md](../../knowledge/research/refined/penkkipunnerrus-kulma-ja-biomekaniikka.md)). |
-| A3b | Yhden käden hantelisoutu | 3 × 8/puoli | 2 | Pari A3a:n kanssa. |
-| A4 | Pohkeen punnerrus (yhdellä jalalla) | 2 × 12/jalka | 1 | Akilles- ja jalkapöydän tuki. |
-| A5 | Pallof press (anti-rotaatio, kuminauha) | 2 × 10/puoli | 2 | Dynaaminen keskivartalon hallinta. |
+| # | Liike | Sarjat × toistot | RIR | Video | Huomiot |
+|---|-------|------------------|-----|-------|---------|
+| A1 | **Etukyykky laatikolle** (penkki tai laatikko säädetty siten että polvi pysähtyy ~90°-kulmaan) | 3 × 5 | 3 | | Aloituspaino ~95 kg (n. 78 % arvioidusta 1RM:stä 120 kg). Lyhyt pysähdys laatikolla, ei pudotusta eikä pomppausta ylös. Pidä polvi linjassa varpaiden kanssa, älä päästä sisäänpäin. Säädä laatikon korkeus niin että polvi ei mene yli 90°. |
+| A2 | **Askelkyykky** (lunge, hantelit) | 3 × 8/jalka | 2 | | Korvaa Bulgarian split squatin. Pidä etusääri pystyssä — askel pitkä, ei syvä etupolven kulma. Heikomman (vas.) puolen tulokset määräävät kuorman. |
+| A3a | Vinopenkkipunnerrus 15° käsipainoilla **tai** pystypunnerrus (vuoroviikoin) | 3 × 6–8 | 2 | | Aloituspainot RIR 2 -tavoitteeseen: **vinopenkki 2 × 22,5 kg**, **pystypunnerrus 42,5 kg**. Nykyiset 3×8-maksimit (2×24 kg vino, 45 kg pysty) tavoitellaan viikolla 3–4 RIR-toleranssin mukaan. 15° vinopenkki toimii käytännössä tasapenkkinä ([penkkipunnerrus-kulma-ja-biomekaniikka.md](../../knowledge/research/refined/penkkipunnerrus-kulma-ja-biomekaniikka.md)). |
+| A3b | Yhden käden hantelisoutu | 3 × 8/puoli | 2 | | Pari A3a:n kanssa. |
+| A4 | Pohkeen punnerrus (yhdellä jalalla) | 2 × 12/jalka | 1 | [Tekniikka](https://www.youtube.com/shorts/5paDavNMjGM) | Akilles- ja jalkapöydän tuki. |
+| A5 | Pallof press (anti-rotaatio, kuminauha) | 2 × 10/puoli | 2 | | Dynaaminen keskivartalon hallinta. |
 
 **Perustelu muutoksiin:**
 
@@ -79,15 +79,15 @@ Ydinperiaate: salitreenin ja pallopelin väliin **vähintään 24 h**, mielellä
 
 ## Treeni B — Lonkkadominantti + veto
 
-| # | Liike | Sarjat × toistot | RIR | Huomiot |
-|---|-------|------------------|-----|---------|
-| B1 | Maastaveto | 3 × 5 | 3 | Päärautaliike. Aloituspaino ~140 kg (n. 78 % 1RM). Polvikulma maltillinen — sopii nivelrikkoiselle polvelle. |
-| B2 | Yhden jalan rumanialainen maastaveto (hantelit) | **4 × 8/jalka** | 2 | Korotettu 3 → 4 sarjaa Nordic hamstringin poistamisen kompensaationa. Hidas eksentrinen vaihe (3 s alas). Hamstring + lonkan stabiliteetti suljetussa ketjussa, polvi pidetään lähes suorana. |
-| B3a | Leukavedot (tai avustetut/ylätalja) | 3 × 6–10 | 2 | Edetään kohti vapaita leukoja. |
-| B3b | Vinopenkkipunnerrus hanteleilla | 3 × 8–10 | 2 | Pari B3a:n kanssa. |
-| B4 | **Hamstring curl kuminauhalla** (selinmakuulla, jalka kuminauhassa) | 2 × 12/jalka | 1 | Korvaa Nordic hamstringin. Polvi koukussa kontrolloidusti, ei kuormitettua eksentristä polven flexion-laajaa liikettä. Hidas 2 s eksentrinen. |
-| B5 | Copenhagen plank (lyhyt vipuvarsi alkuun) | 2 × 20–30 s/puoli | — | Sisäreisi ja lonkan adduktorit. |
-| B6 | Olkapään ulkokierto hantelilla, eksentrinen | 2 × 10/puoli | 1 | ([urheiluvammat-leppanen.md](../../knowledge/research/refined/urheiluvammat-leppanen.md)) |
+| # | Liike | Sarjat × toistot | RIR | Video | Huomiot |
+|---|-------|------------------|-----|-------|---------|
+| B1 | Maastaveto | 3 × 5 | 3 | | Päärautaliike. Aloituspaino ~140 kg (n. 78 % 1RM). Polvikulma maltillinen — sopii nivelrikkoiselle polvelle. |
+| B2 | Yhden jalan rumanialainen maastaveto (hantelit) | **4 × 8/jalka** | 2 | | Korotettu 3 → 4 sarjaa Nordic hamstringin poistamisen kompensaationa. Hidas eksentrinen vaihe (3 s alas). Hamstring + lonkan stabiliteetti suljetussa ketjussa, polvi pidetään lähes suorana. |
+| B3a | Leukavedot (tai avustetut/ylätalja) | 3 × 6–10 | 2 | | Edetään kohti vapaita leukoja. |
+| B3b | Vinopenkkipunnerrus hanteleilla | 3 × 8–10 | 2 | | Pari B3a:n kanssa. |
+| B4 | **Hamstring curl kuminauhalla** (selinmakuulla, jalka kuminauhassa) | 2 × 12/jalka | 1 | | Korvaa Nordic hamstringin. Polvi koukussa kontrolloidusti, ei kuormitettua eksentristä polven flexion-laajaa liikettä. Hidas 2 s eksentrinen. |
+| B5 | Copenhagen plank (lyhyt vipuvarsi alkuun) | 2 × 20–30 s/puoli | — | | Sisäreisi ja lonkan adduktorit. |
+| B6 | Olkapään ulkokierto hantelilla, eksentrinen | 2 × 10/puoli | 1 | | ([urheiluvammat-leppanen.md](../../knowledge/research/refined/urheiluvammat-leppanen.md)) |
 
 **Perustelu muutoksiin:**
 

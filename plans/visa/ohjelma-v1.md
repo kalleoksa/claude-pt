@@ -71,14 +71,14 @@ Soutu, pyöräily tai hyppynaru kevyesti.
 
 ## Treeni A — Alaraajat polvidominantti + tekniikka
 
-| # | Liike | Sarjat × toistot | RIR | Huomiot |
-|---|-------|------------------|-----|---------|
-| A1 | **Hang power clean** | 4 × 3 | — | Tuttu liike — aloitetaan työkuormilla (~50–60 kg). Fokus bar pathin ja catch-asennon laadussa: kyynärpäät nopeasti eteen rack positioniin, joustava vastaanotto. 3 toistoa sarjassa pitää tekniikan puhtaana — ei väsymystä. Kuorma nousee vain jos catch-asento säilyy siistinä. |
-| A2 | **Takakyykky** | 4 × 8–10 | 2 | Aloituspaino ~55 kg. Täysi liikelaajuus kun polvet ja selkä sen sallivat. Jos selkä kipeytyy, tarkista asento — ei liiallista eteentaivutusta. |
-| A3 | **Goblet kyykky** | 3 × 12–15 | 1 | Hanteli tai kettlebell rintaa vasten. Harjoittaa rintarangan asennon ja ranteen asentoa rinnallevedon rack positionia varten. Kantapäät alas, polvet leveitä, rinta auki. |
-| A4 | **Askelkyykky eteen** (hantelit) | 3 × 10/jalka | 2 | Pitkä askel, polvea ei tarvitse viedä maan lähelle. Etusääri pystymmässä asennossa → polven kuormitus maltillisempi. |
-| A5 | **Pohkeen punnerrus** (yhdellä jalalla, reunalla) | 3 × 12/jalka | 1 | Hidas eksentrinen (3 s alas). Akillesjänteen ja nilkan tuki. |
-| A6 | **Core: Pallof press** (kuminauha tai talja) | 2 × 10/puoli | 2 | Anti-rotaatio. Parantaa lantion hallintaa kyykyssä ja rinnallevedossa. |
+| # | Liike | Sarjat × toistot | RIR | Video | Huomiot |
+|---|-------|------------------|-----|-------|---------|
+| A1 | **Hang power clean** | 4 × 3 | — | | Tuttu liike — aloitetaan työkuormilla (~50–60 kg). Fokus bar pathin ja catch-asennon laadussa: kyynärpäät nopeasti eteen rack positioniin, joustava vastaanotto. 3 toistoa sarjassa pitää tekniikan puhtaana — ei väsymystä. Kuorma nousee vain jos catch-asento säilyy siistinä. |
+| A2 | **Takakyykky** | 4 × 8–10 | 2 | | Aloituspaino ~55 kg. Täysi liikelaajuus kun polvet ja selkä sen sallivat. Jos selkä kipeytyy, tarkista asento — ei liiallista eteentaivutusta. |
+| A3 | **Goblet kyykky** | 3 × 12–15 | 1 | | Hanteli tai kettlebell rintaa vasten. Harjoittaa rintarangan asennon ja ranteen asentoa rinnallevedon rack positionia varten. Kantapäät alas, polvet leveitä, rinta auki. |
+| A4 | **Askelkyykky eteen** (hantelit) | 3 × 10/jalka | 2 | | Pitkä askel, polvea ei tarvitse viedä maan lähelle. Etusääri pystymmässä asennossa → polven kuormitus maltillisempi. |
+| A5 | **Pohkeen punnerrus** (yhdellä jalalla, reunalla) | 3 × 12/jalka | 1 | [Tekniikka](https://www.youtube.com/shorts/5paDavNMjGM) | Hidas eksentrinen (3 s alas). Akillesjänteen ja nilkan tuki. |
+| A6 | **Core: Pallof press** (kuminauha tai talja) | 2 × 10/puoli | 2 | | Anti-rotaatio. Parantaa lantion hallintaa kyykyssä ja rinnallevedossa. |
 
 **Perustelut:**
 - **Hang power clean ennen kyykkyä** — tekniikka vaatii tuoretta hermolihasjärjestelmää, sijoitetaan pääliikkeen eteen.
@@ -89,14 +89,14 @@ Soutu, pyöräily tai hyppynaru kevyesti.
 
 ## Treeni B — Ylävartalot, veto-painotteinen
 
-| # | Liike | Sarjat × toistot | RIR | Huomiot |
-|---|-------|------------------|-----|---------|
-| B1 | **Leuanveto kehonpainolla** (otetta vaihdetaan viikoittain) | 5 × 8–10 | 1–2 | Hidas eksentrinen laskuvaihe (4–5 s alas). Ei lisäpainoa — ikä ja olkapään historia huomioitu. Hypertrofia saavutetaan hidastamalla tempoa ja kasvattamalla volyymiä. Otekierto: vk 1–2 vastaliike (supinated), vk 3–4 neutraali tai leveä myötäote. |
-| B2 | **Ylätalja leveällä otteella** | 3 × 10–12 | 2 | Lisävolyymi vetoon. Erityisesti leveitä selkälihaksia. Ajattele kyynärpäät alas taaksepäin, ei käsillä vetämistä. |
-| B3 | **Penkkisoutu** (hanteli tai tanko) | 4 × 10–12 | 2 | Lapaluut liikkeeseen mukaan. Hyvä vastinpari punnertamiselle — kompensoi rintarangan kuormitusta pyöräilystä. |
-| B4 | **Pystypunnerrus** (hantelit) | 3 × 10–12 | 2 | Hantelit vapaampaa liikerataa varten kuin tanko → olkapää mukautuu → vähemmän riskiä. Kyynärpäät hieman eteen, ei leveälle. |
-| B5 | **Olkapään ulkokierto hantelilla, eksentrinen** | 2 × 12/puoli | 1 | Rotator cuff -ennaltaehkäisy. Käsi 90° kulmassa, hidas laskuvaihe (3 s). Tärkeä koska olkapää on leikattu ja punnerrus toisinaan kipeytyy. |
-| B6 | **Hauiskääntö** (hantelit tai käyrätanko) | 2 × 12–15 | 1 | Harjoituksen loppupuolella. Lähellä uupumusta sallittua turvallisessa eristävässä liikkeessä. |
+| # | Liike | Sarjat × toistot | RIR | Video | Huomiot |
+|---|-------|------------------|-----|-------|---------|
+| B1 | **Leuanveto kehonpainolla** (otetta vaihdetaan viikoittain) | 5 × 8–10 | 1–2 | | Hidas eksentrinen laskuvaihe (4–5 s alas). Ei lisäpainoa — ikä ja olkapään historia huomioitu. Hypertrofia saavutetaan hidastamalla tempoa ja kasvattamalla volyymiä. Otekierto: vk 1–2 vastaliike (supinated), vk 3–4 neutraali tai leveä myötäote. |
+| B2 | **Ylätalja leveällä otteella** | 3 × 10–12 | 2 | | Lisävolyymi vetoon. Erityisesti leveitä selkälihaksia. Ajattele kyynärpäät alas taaksepäin, ei käsillä vetämistä. |
+| B3 | **Penkkisoutu** (hanteli tai tanko) | 4 × 10–12 | 2 | | Lapaluut liikkeeseen mukaan. Hyvä vastinpari punnertamiselle — kompensoi rintarangan kuormitusta pyöräilystä. |
+| B4 | **Pystypunnerrus** (hantelit) | 3 × 10–12 | 2 | | Hantelit vapaampaa liikerataa varten kuin tanko → olkapää mukautuu → vähemmän riskiä. Kyynärpäät hieman eteen, ei leveälle. |
+| B5 | **Olkapään ulkokierto hantelilla, eksentrinen** | 2 × 12/puoli | 1 | | Rotator cuff -ennaltaehkäisy. Käsi 90° kulmassa, hidas laskuvaihe (3 s). Tärkeä koska olkapää on leikattu ja punnerrus toisinaan kipeytyy. |
+| B6 | **Hauiskääntö** (hantelit tai käyrätanko) | 2 × 12–15 | 1 | | Harjoituksen loppupuolella. Lähellä uupumusta sallittua turvallisessa eristävässä liikkeessä. |
 
 **Leuanvedon progressio (lähtötaso: 10–12 toistoa kehonpainolla):**
 
@@ -119,14 +119,14 @@ Hidas eksentrinen tekee kehonpainotoistoista riittävän haastavia hypertrofian 
 
 ## Treeni C — Alaraajat lonkkadominantti
 
-| # | Liike | Sarjat × toistot | RIR | Huomiot |
-|---|-------|------------------|-----|---------|
-| C1 | **Maastaveto** | 4 × 6–8 | 3 | Aloituspaino ~75 kg. Maastaveto tutkitusti turvallinen ja tehokas selkäkivun yhteydessä — tekniikka ratkaisee. Lantio alas, selkä neutraali, tanko lähellä kehoa. Ei pyöristystä alaselässä. |
-| C2 | **Yhden jalan rumanialainen maastaveto** (hantelit) | 3 × 10/jalka | 2 | Hidas eksentrinen (3 s alas). Hamstring + lonkan stabiliteetti. Pidä polvi lähes suorana, lantio neutraalina. |
-| C3 | **Jalkaprässi** (tai kyykky Smithissä) | 3 × 12–15 | 1 | Lisävolyymi jaloille matalammalla selkäkuormituksella. Käy jos sali sen sallii. Jos ei, korvaa Bulgarian split squatilla (hantelit, 3 × 10/jalka). |
-| C4 | **Takareisi curl** (koneessa tai kuminauhalla) | 3 × 12–15 | 1 | Eristävä liike, lähellä uupumusta sallittua. Hidas eksentrinen. |
-| C5 | **Lantionnosto** (hip thrust, hanteli tai tanko) | 3 × 12–15 | 1 | Pakaravoima. Suljettu kineettinen ketju, ei suoraa polvirasitusta. |
-| C6 | **Copenhagen plank** | 2 × 20–30 s/puoli | — | Adduktorit ja lonkan stabiliteetti. |
+| # | Liike | Sarjat × toistot | RIR | Video | Huomiot |
+|---|-------|------------------|-----|-------|---------|
+| C1 | **Maastaveto** | 4 × 6–8 | 3 | | Aloituspaino ~75 kg. Maastaveto tutkitusti turvallinen ja tehokas selkäkivun yhteydessä — tekniikka ratkaisee. Lantio alas, selkä neutraali, tanko lähellä kehoa. Ei pyöristystä alaselässä. |
+| C2 | **Yhden jalan rumanialainen maastaveto** (hantelit) | 3 × 10/jalka | 2 | | Hidas eksentrinen (3 s alas). Hamstring + lonkan stabiliteetti. Pidä polvi lähes suorana, lantio neutraalina. |
+| C3 | **Jalkaprässi** (tai kyykky Smithissä) | 3 × 12–15 | 1 | | Lisävolyymi jaloille matalammalla selkäkuormituksella. Käy jos sali sen sallii. Jos ei, korvaa Bulgarian split squatilla (hantelit, 3 × 10/jalka). |
+| C4 | **Takareisi curl** (koneessa tai kuminauhalla) | 3 × 12–15 | 1 | | Eristävä liike, lähellä uupumusta sallittua. Hidas eksentrinen. |
+| C5 | **Lantionnosto** (hip thrust, hanteli tai tanko) | 3 × 12–15 | 1 | | Pakaravoima. Suljettu kineettinen ketju, ei suoraa polvirasitusta. |
+| C6 | **Copenhagen plank** | 2 × 20–30 s/puoli | — | | Adduktorit ja lonkan stabiliteetti. |
 
 **Perustelut:**
 - **Maastaveto kevyemmällä kuormalla kuin yleensä** — aloituspainot maltilliset (ei testata maksimeja). Selän sensitivisyys huomioitu: täysi tekniikka, ei pyöristystä.
@@ -137,14 +137,14 @@ Hidas eksentrinen tekee kehonpainotoistoista riittävän haastavia hypertrofian 
 
 ## Treeni D — Ylävartalot punnerrus-painotteinen
 
-| # | Liike | Sarjat × toistot | RIR | Huomiot |
-|---|-------|------------------|-----|---------|
-| D1 | **Penkkipunnerrus** (tanko tai hantelit) | 4 × 8–10 | 2 | Aloituspaino ~55 kg (tanko) tai vastaava hanteleilla. Lapaluut koottuna penkille, kyynärpäät ~45° — ei leveälle. Jos olkapää tuntuu, siirry hanteleille. |
-| D2 | **Vinopenkki hantelipunnerrus** | 3 × 10–12 | 2 | Ylärinta ja etudeltoidi. Täydentää penkkipunnerrusta. |
-| D3 | **Seisten hanteli lateraalnousu** | 3 × 15–20 | 1 | Keskiloihtiminen deltoideus. Lähelle uupumusta sallittua — kevyt, turvallinen eristävä liike. Kyynärpäissä pieni koukku, ei heiluttamista. |
-| D4 | **Kapearintainen punnerrus** (EZ-tanko tai hantelit) | 3 × 10–12 | 2 | Ojentajat. Kyynärpäät eivät leviä — pienentää olkapääkuormitusta. |
-| D5 | **Vaijeri hauiskääntö tai hauiskääntö hantelilla** | 3 × 12–15 | 1 | Eristävä. Lähelle uupumusta ok. Mieluusti harjoituksen loppupuolella. |
-| D6 | **Olkapään ulkokierto hantelilla, eksentrinen** | 2 × 12/puoli | 1 | Sama kuin B5. Toistuu molemmissa ylävartalotreeneissä — ennaltaehkäisy. |
+| # | Liike | Sarjat × toistot | RIR | Video | Huomiot |
+|---|-------|------------------|-----|-------|---------|
+| D1 | **Penkkipunnerrus** (tanko tai hantelit) | 4 × 8–10 | 2 | | Aloituspaino ~55 kg (tanko) tai vastaava hanteleilla. Lapaluut koottuna penkille, kyynärpäät ~45° — ei leveälle. Jos olkapää tuntuu, siirry hanteleille. |
+| D2 | **Vinopenkki hantelipunnerrus** | 3 × 10–12 | 2 | | Ylärinta ja etudeltoidi. Täydentää penkkipunnerrusta. |
+| D3 | **Seisten hanteli lateraalnousu** | 3 × 15–20 | 1 | | Keskiloihtiminen deltoideus. Lähelle uupumusta sallittua — kevyt, turvallinen eristävä liike. Kyynärpäissä pieni koukku, ei heiluttamista. |
+| D4 | **Kapearintainen punnerrus** (EZ-tanko tai hantelit) | 3 × 10–12 | 2 | | Ojentajat. Kyynärpäät eivät leviä — pienentää olkapääkuormitusta. |
+| D5 | **Vaijeri hauiskääntö tai hauiskääntö hantelilla** | 3 × 12–15 | 1 | | Eristävä. Lähelle uupumusta ok. Mieluusti harjoituksen loppupuolella. |
+| D6 | **Olkapään ulkokierto hantelilla, eksentrinen** | 2 × 12/puoli | 1 | | Sama kuin B5. Toistuu molemmissa ylävartalotreeneissä — ennaltaehkäisy. |
 
 **Perustelut:**
 - **Penkkipunnerrus tankolla vs. hanteleilla** — molemmat sopivat. Hantelit antavat olkapäälle enemmän vapautta. Jos tankopunnerrus kipeytyy toistuvasti, siirry hanteleihin pysyvästi.

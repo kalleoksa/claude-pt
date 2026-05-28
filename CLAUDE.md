@@ -42,6 +42,7 @@ Kun teet harjoitusohjelman:
     /raw          # Alkuperäiset artikkelit/muistiinpanot sellaisenaan
     /refined      # Tiivistetyt, ohjelmoinnissa käytettävät dokumentit
   /persons        # Henkilöprofiilit
+  /videos         # Videokirjasto (YouTube-opasvideot liikkeittäin)
 /plans
   /[henkilö]      # Harjoitusohjelmat henkilöittäin
 /templates        # Pohjat (profiili, ohjelma)
@@ -57,6 +58,15 @@ Kun saat uutta raakamateriaalia:
    - Käytännön ohjelmointi (liikevalinnat, toistot, sarjat, progressio)
    - Lähdeviite raakadokumenttiin
 4. **Commitoi tutkimusdokumentit aina suoraan `main`-haaraan** — ne ovat jaettua tietoa joka koskee kaikkia henkilöitä, ei henkilökohtaisia ohjelmia
+
+## Opastusvideot
+
+- Videokirjasto: `/knowledge/videos/videokirjasto.md` — kaikki videot liikkeittäin
+- YouTube on ensisijainen videolähde, Shorts sopii hyvin lyhyisiin tekniikkademoihin
+- Videoita voivat ehdottaa Claude, Kalle tai Visa
+- Kun teet ohjelman, tarkista kirjastosta löytyykö videoita valituille liikkeille ja lisää Video-sarake
+- Uusi video: lisää ensin videokirjastoon, sitten linkitä ohjelmaan
+- Liikkeellä voi olla useampi video kirjastossa (eri näkökulma, eri taso)
 
 ## Ohjelmoinnin periaatteet
 

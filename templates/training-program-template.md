@@ -70,11 +70,11 @@ Kuinka monta päivää, missä järjestyksessä. Tarjoa vaihtoehdot jos sessioid
 
 ## Treeni [A] — [Kuvaus]
 
-| # | Liike | Sarjat × toistot | RIR | Huomiot |
-|---|-------|------------------|-----|---------|
-| A1 | **[Pääliike]** | [X] × [Y–Z] | [N] | [Tekniikkahuomiot, aloituspaino, erityishuomiot henkilön rajoitteisiin liittyen] |
-| A2 | **[Apuliike]** | [X] × [Y–Z] | [N] | |
-| A3 | **[Apuliike]** | [X] × [Y–Z] | [N] | |
+| # | Liike | Sarjat × toistot | RIR | Video | Huomiot |
+|---|-------|------------------|-----|-------|---------|
+| A1 | **[Pääliike]** | [X] × [Y–Z] | [N] | [Tekniikka](URL) | [Tekniikkahuomiot, aloituspaino, erityishuomiot henkilön rajoitteisiin liittyen] |
+| A2 | **[Apuliike]** | [X] × [Y–Z] | [N] | | |
+| A3 | **[Apuliike]** | [X] × [Y–Z] | [N] | | |
 
 **Perustelut:**
 - **[Liike]:** Miksi juuri tämä liike tälle henkilölle *(viittaa tutkimusdokumenttiin tai ilmoita "yleinen käytäntö")*
