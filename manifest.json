@@ -1,0 +1,20 @@
+{
+  "persons": [
+    {
+      "id": "kalle",
+      "name": "Kalle",
+      "profile": "knowledge/persons/kalle.md",
+      "plans": [
+        { "version": "v1.1", "path": "plans/kalle/ohjelma-v1.1.md", "latest": true },
+        { "version": "v1",   "path": "plans/kalle/ohjelma-v1.md" }
+      ]
+    }
+  ],
+  "research": [
+    { "id": "voimaharjoittelu-tule-terveys", "title": "Voimaharjoittelu ja tule-terveys", "path": "knowledge/research/refined/voimaharjoittelu-tule-terveys.md" },
+    { "id": "urheiluvammat-leppanen", "title": "Urheiluvammat (Leppänen)", "path": "knowledge/research/refined/urheiluvammat-leppanen.md" },
+    { "id": "toistovarapohjainen-ohjelmointi", "title": "Toistovarapohjainen ohjelmointi (RIR)", "path": "knowledge/research/refined/toistovarapohjainen-ohjelmointi.md" },
+    { "id": "toiminnallinen-liikkuvuus", "title": "Toiminnallinen liikkuvuus", "path": "knowledge/research/refined/toiminnallinen-liikkuvuus.md" },
+    { "id": "penkkipunnerrus-kulma-ja-biomekaniikka", "title": "Penkkipunnerrus: kulma ja biomekaniikka", "path": "knowledge/research/refined/penkkipunnerrus-kulma-ja-biomekaniikka.md" }
+  ]
+}
