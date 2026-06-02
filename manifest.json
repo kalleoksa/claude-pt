@@ -8,6 +8,14 @@
         { "version": "v1.1", "path": "plans/kalle/ohjelma-v1.1.md", "latest": true },
         { "version": "v1",   "path": "plans/kalle/ohjelma-v1.md" }
       ]
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "profile": "knowledge/persons/visa.md",
+      "plans": [
+        { "version": "v1", "path": "plans/visa/ohjelma-v1.md", "latest": true }
+      ]
     }
   ],
   "research": [
