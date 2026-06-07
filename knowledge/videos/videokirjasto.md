@@ -9,7 +9,9 @@ Opastavat YouTube-videot liikkeittäin. Shorts-muoto suositeltava lyhyille tekni
 | Etukyykky laatikolle | | | |
 | Takakyykky | | | |
 | Goblet kyykky | | | |
-| Askelkyykky | | | |
+| Askelkyykky | [Taka-, sivu- ja etuaskelkyykky + clean](https://youtu.be/qG7zvam1tkQ?t=156) | Squat University | Kalle |
+| Kickstand kyykky | [Kickstand squat — progressio yhdelle jalalle](https://youtu.be/qG7zvam1tkQ?t=319) | Squat University | Kalle |
+| Varvaskyykky | [Toe squat — kyykky varpaille](https://youtu.be/qG7zvam1tkQ?t=370) | Squat University | Kalle |
 
 ## Alaraaja — lonkkadominantit
 
@@ -17,6 +19,8 @@ Opastavat YouTube-videot liikkeittäin. Shorts-muoto suositeltava lyhyille tekni
 |-------|-------|--------|---------|
 | Maastaveto | | | |
 | Yhden jalan RDL | | | |
+| Kickstand RDL | [Kickstand RDL — lantio-saranaversio yhdelle jalalle](https://youtu.be/qG7zvam1tkQ?t=505) | Squat University | Kalle |
+| Kickstand kettlebell swing | [Kickstand swing — tehoharjoite hinge-kuvioon](https://youtu.be/qG7zvam1tkQ?t=568) | Squat University | Kalle |
 | Lantionnosto (hip thrust) | | | |
 | Pohkeen punnerrus | [Tekniikka](https://www.youtube.com/shorts/5paDavNMjGM) | | Kalle |
 
@@ -53,6 +57,15 @@ Opastavat YouTube-videot liikkeittäin. Shorts-muoto suositeltava lyhyille tekni
 | Hämähäkkimiesasento + kierto | | | |
 | Sivulankku + jalan abduktio | | | |
 | Monster walk (kuminauha) | | | |
+
+## Urheilijaliikkeet ja kantaminen
+
+| Liike | Video | Kanava | Lisääjä |
+|-------|-------|--------|---------|
+| Farmer carry march (tasapuolinen) | [Double arm farmer carry march](https://youtu.be/qG7zvam1tkQ?t=60) | Squat University | Kalle |
+| Farmer carry march (toispuolinen) | [Single arm farmer carry march](https://youtu.be/qG7zvam1tkQ?t=84) | Squat University | Kalle |
+| Farmer carry march (KB ylösalaisin) | [Upside down KB march — vaativin versio](https://youtu.be/qG7zvam1tkQ?t=100) | Squat University | Kalle |
+| Kaatohakkaus split-asennosta | [Chop from split stance — toiminnallinen rotaatio](https://youtu.be/qG7zvam1tkQ?t=427) | Squat University | Kalle |
 
 ## Core ja stabiliteetti
 
