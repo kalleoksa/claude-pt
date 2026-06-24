@@ -97,6 +97,13 @@ async function renderPerson(id) {
       + '</ul></div></details>'
     : '';
 
+  const tests = person.tests || [];
+  const testsHtml = tests.length
+    ? '<details class="collapse"><summary>Testit</summary><div class="collapse-body"><ul>'
+      + tests.map(t => '<li><a href="#/page/' + encodeURIComponent(t.path) + '">' + escapeHtml(t.title) + '</a></li>').join('')
+      + '</ul></div></details>'
+    : '';
+
   const researchHtml = '<details class="collapse"><summary>Tutkimusdokumentit</summary><div class="collapse-body"><ul>'
     + manifest.research.map(r => '<li><a href="#/page/' + encodeURIComponent(r.path) + '">' + escapeHtml(r.title) + '</a></li>').join('')
     + '</ul></div></details>';
@@ -107,7 +114,7 @@ async function renderPerson(id) {
     : '';
 
   VIEW.innerHTML =
-    '<section class="section">' + profileLink + olderHtml + researchHtml + '</section>'
+    '<section class="section">' + profileLink + olderHtml + testsHtml + researchHtml + '</section>'
     + planSection;
   window.scrollTo(0, 0);
 
@@ -118,7 +125,7 @@ async function renderPerson(id) {
 
 async function renderPage(path) {
   const person = manifest.persons.find(p =>
-    p.profile === path || p.plans.some(pl => pl.path === path)
+    p.profile === path || p.plans.some(pl => pl.path === path) || (p.tests || []).some(t => t.path === path)
   );
   const research = manifest.research.find(r => r.path === path);
 
@@ -129,7 +136,12 @@ async function renderPage(path) {
       crumbs.push({ label: 'Profiili' });
     } else {
       const plan = person.plans.find(pl => pl.path === path);
-      crumbs.push({ label: plan ? 'Ohjelma ' + plan.version : fileBaseName(path) });
+      if (plan) {
+        crumbs.push({ label: 'Ohjelma ' + plan.version });
+      } else {
+        const test = (person.tests || []).find(t => t.path === path);
+        crumbs.push({ label: test ? test.title : fileBaseName(path) });
+      }
     }
   } else if (research) {
     crumbs.push({ label: research.title });

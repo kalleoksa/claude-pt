@@ -7,6 +7,9 @@
       "plans": [
         { "version": "v1.1", "path": "plans/kalle/ohjelma-v1.1.md", "latest": true },
         { "version": "v1",   "path": "plans/kalle/ohjelma-v1.md" }
+      ],
+      "tests": [
+        { "id": "10-testin-haaste", "title": "10 testin haaste", "path": "plans/kalle/10-testin-haaste.md" }
       ]
     },
     {
@@ -15,6 +18,9 @@
       "profile": "knowledge/persons/visa.md",
       "plans": [
         { "version": "v1", "path": "plans/visa/ohjelma-v1.md", "latest": true }
+      ],
+      "tests": [
+        { "id": "10-testin-haaste", "title": "10 testin haaste", "path": "plans/visa/10-testin-haaste.md" }
       ]
     }
   ],
