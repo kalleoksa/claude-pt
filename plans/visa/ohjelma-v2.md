@@ -112,11 +112,10 @@
 | # | Liike | Sarjat × toistot | RIR | Huomiot |
 |---|-------|------------------|-----|---------|
 | B1 | **Dippi** (ulkosali dippiteline) | 4 × 6–8 | 2 | Hidas eksentrinen 3 s. Kirjaa olkapään tuntemus 1–5. Täysi liikelaajuus kun sallii — älä punnerra kipuun. |
-| B2 | **Pike push-up -progressio** | 3 × 8–10 | 2 | OHP-testin kehonpainopohja. Ks. progressiotaulukko alla. |
-| B3 | **Punnerrus** | 3 × 10–12 | 1 | Hidas eksentrinen 4 s. |
+| B2 | **Hanteli penkkipunnerrus** (vinopenkki tai tasopenkki ulkosalilla) | 3 × 8–10 | 2 | Hantelit → vapaa liikerata olkapäälle. Kyynärpäät ~45°. Kirjaa olkapään tuntemus. Testikunto kehittyy tässä. |
+| B3 | **Pike push-up -progressio** | 3 × 8–10 | 2 | OHP-testin kehonpainopohja. Ks. progressiotaulukko alla. |
 | B4 | **Lateraalinousu** (kuminauha) | 3 × 15–20 | 1 | Keskiloihtiminen. Nosta kyynärpäät olkapääkorkeuteen. |
-| B5 | **Kapearintainen punnerrus** | 2 × 10–12 | 1 | Ojentajat. Kädet lähellä toisiaan. |
-| B6 | **Olkapään ulkokierto eksentrinen** (kuminauha) | 2 × 12/puoli | 1 | Sama kuin A6. Aina B-päivässä. |
+| B5 | **Olkapään ulkokierto eksentrinen** (kuminauha) | 2 × 12/puoli | 1 | Sama kuin A6. Aina B-päivässä. |
 
 ### Pike push-up -progressio
 
@@ -129,9 +128,9 @@
 
 Visa aloittaa tasolta 1–2.
 
-### Penkkipunnerrus — sali-optio
+### Penkkipunnerrus — huomiot
 
-Kun käy salilla: **hanteli penkkipunnerrus** hantelilla, ei tangolla. Olkapää mukautuu hantelin liikerataan vapaammin. Vertailutaso: 2 × 30–34 kg hanteli × 5 vastaa suunnilleen 72,5 kg tanko × 5. Jos joskus haluaa kokeilla tankoa — ok, mutta ei pakko.
+Ulkosalilla on penkki — hantelit ovat ensisijainen väline. Tanko sopii kokeiltavaksi satunnaisesti, mutta ei pakollinen. Vertailutaso: 2 × 32–34 kg hanteli × 5 vastaa suunnilleen 72,5 kg tanko × 5.
 
 ---
 
@@ -177,7 +176,7 @@ Jos päättää mennä salille D-päivänä, korvaa tai lisää:
 
 | Liike | Sarjat × toistot | Tavoite testiin |
 |-------|------------------|-----------------|
-| Hanteli penkkipunnerrus | 3 × 5 | 2 × 32–34 kg → testitaso |
+| Hanteli penkkipunnerrus (B-päivässä jo) | — | Kehittyy normaalin B-ohjelman kautta |
 | Maastaveto | 3 × 3 | Progressio 80 → 100 kg → 109 kg × 3 |
 | Hang power clean | 4 × 3 | Tekniikka ~50–60 kg |
 | OHP (hanteli tai tanko) | 3 × 5 | 2 × 20 kg tai 43,5 kg tanko |
