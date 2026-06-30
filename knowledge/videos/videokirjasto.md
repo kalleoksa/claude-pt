@@ -89,5 +89,5 @@ Opastavat YouTube-videot liikkeittäin. Yksi hyvä video per liike — tekniikka
 
 | Liike | Video | Lisääjä |
 |-------|-------|---------|
-| Olkapään ulkokierto eksentrinen | [Eccentric Shoulder External Rotation (Seated)](https://www.youtube.com/watch?v=54841-kbqH8) | Visa |
+| Olkapään ulkokierto — TRX face pull | [TRX Face Pull w/ External Rotation (Rotator Cuff)](https://www.youtube.com/watch?v=HLrmqQf0oIA) | Visa |
 | Hamstring curl kuminauhalla | | |

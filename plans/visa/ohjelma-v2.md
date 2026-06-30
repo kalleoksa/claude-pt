@@ -76,7 +76,7 @@
 **3. Aktivointi:**
 - Sivulankku + jalan abduktio: 8/puoli
 - Kuminauha monster walk tai hip circle: 10 askelta/suunta
-- Olkapään ulkokierto kuminauhalla: 10/puoli (aina A ja B -päivissä)
+- Olkapään ulkokierto — TRX face pull tai kuminauha: 10/puoli (aina A ja B -päivissä)
 
 ---
 
@@ -89,7 +89,7 @@
 | A3 | **Archer pull-up tai epäsymmetrinen veto** | 2 × 4–6/puoli | 2 | Lisätään vk 2–3 kun variaatio tuntuu hallitulta. |
 | A4 | **Hauiskääntö** (kuminauha) | 2 × 12–15 | 1 | Eristävä. |
 | A5 | **Dead hang** | 2 × max-aika | — | Testiharjoitus — tavoite 60 s. Kirjaa sekunnit. |
-| A6 | **Olkapään ulkokierto eksentrinen** (kuminauha) | 2 × 12/puoli | 1 | Hidas laskuvaihe 3 s. Aina A-päivässä. |
+| A6 | **Olkapään ulkokierto** — TRX (face pull -tyyli) | 2 × 12/puoli | 1 | Seiso TRX:n kanssa, kädet otsalle vetäen — kierto ulospäin loppuasennossa. Hidas palautus 3 s. Aina A-päivässä. |
 
 ### Leuanvedon progressio (5 viikkoa)
 
@@ -115,7 +115,7 @@
 | B2 | **Hanteli penkkipunnerrus** (vinopenkki tai tasopenkki ulkosalilla) | 3 × 8–10 | 2 | Hantelit → vapaa liikerata olkapäälle. Kyynärpäät ~45°. Kirjaa olkapään tuntemus. Testikunto kehittyy tässä. |
 | B3 | **Pike push-up -progressio** | 3 × 8–10 | 2 | OHP-testin kehonpainopohja. Ks. progressiotaulukko alla. |
 | B4 | **Lateraalinousu** (kuminauha) | 3 × 15–20 | 1 | Keskiloihtiminen. Nosta kyynärpäät olkapääkorkeuteen. |
-| B5 | **Olkapään ulkokierto eksentrinen** (kuminauha) | 2 × 12/puoli | 1 | Sama kuin A6. Aina B-päivässä. |
+| B5 | **Olkapään ulkokierto** — TRX (face pull -tyyli) | 2 × 12/puoli | 1 | Sama kuin A6. Aina B-päivässä. |
 
 ### Pike push-up -progressio
 
