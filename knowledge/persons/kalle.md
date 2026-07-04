@@ -18,7 +18,7 @@
 - **Current program:** 2–3 koripallo-/jalkapallotreeniä viikossa, 1–2 salitreeniä viikossa
 - **Past approaches that worked:** —
 - **Past approaches that didn't work / caused issues:** —
-- **Estimated 1RMs or working weights:** Maastaveto ~180 kg. Etukyykky laatikolle (~90° polvikulma) arvioitu 1RM ~120–125 kg (perustuu 8 × 90 kg @ RIR 3–4). Täyden liikelaajuuden etukyykkyä ei tehdä polvirajoitteen takia. Pystypunnerrus 3 × 8 @ 45 kg. Vinopenkkipunnerrus 15° käsipainoilla 3 × 8 @ 2 × 24 kg (maksimi tällä volyymilla).
+- **Estimated 1RMs or working weights:** Maastaveto ~180 kg. Etukyykky (~90° polvikulma) arvioitu 1RM ~130 kg. Perustuu kahteen datapisteeseen: 6 × 100 kg "suht kevyesti" (video marraskuulta 2025, ≈ RIR 3–4 → Epley ~130–133 kg) ja 8 × 90 kg @ RIR 3–4 (→ ~123–126 kg). Täyden liikelaajuuden etukyykkyä ei tehdä polvirajoitteen takia. Pystypunnerrus 3 × 8 @ 45 kg. Vinopenkkipunnerrus 15° käsipainoilla 3 × 8 @ 2 × 24 kg (maksimi tällä volyymilla).
 - **Weak points / lagging areas:** —
 
 ## Constraints
