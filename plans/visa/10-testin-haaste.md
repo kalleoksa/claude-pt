@@ -52,6 +52,25 @@
 
 **Pisteet:** ___ / 10
 
+### Testi 9 (dead hang) — vakioitu suoritus
+
+Virallinen testi tehdään **keho suorana, jalat vapaana irti maasta** ("kynttilänä"). Koukkupolvinen versio (matala tanko) tekee riipunnasta *hieman raskaamman* — jalkojen kannattelu vaatii lonkankoukistajilta ja keskivartalolta työtä, eikä keho roiku rennosti. **Kotitanko voidaan nostaa korkeammalle** (todettu 30.8.2026) → tee kotimittaukset jatkossa suorana, niin ne ovat vertailukelpoisia testiin. Kirjaa aina kumpi versio, jos joudut poikkeamaan.
+
+### Epäviralliset välimittaukset
+
+Nämä eivät ole testituloksia (ei tehty levänneenä eikä testiprotokollan mukaan) — suuntaa antavia merkkipaaluja.
+
+| Testi | Pvm | Tulos | Olosuhteet |
+|-------|-----|-------|------------|
+| 9 — Dead hang | **26.8.2026** | **1 min 10 s** ⭐ | **Tavoitetaso (60 s) ylitetty.** Tehty ulkosalitreenin alkupuolella jonon aikana, keho tuore. 2. sarja 42 s (tauko 3 min 40 s) — parani 21.8:sta (30 s / 2 min tauko), pidempi tauko toimi |
+| 9 — Dead hang | 21.8.2026 | 60 s | Päivä ison porras+pyöräpäivän jälkeen, session lopussa, jalat/keho väsynyt |
+| 3 — Leuanveto **(myötäote, pull-up)** | **4.9.2026** | **10 toistoa @ RIR 1** ⭐ (sarjat 10 / 8 / 7 / 7, tauko 3,5 min) | Tehty **sen jälkeen kun aamulla oli jo tehty ~5 vetoa** → tuore maksimi arviolta ~11. Testi 3:n tavoite (10) käytännössä saavutettu myös myötäotteella |
+| 3 — Leuanveto (myötäote, pull-up) | 31.8.2026 | 9 toistoa @ RIR 1 (sarjat 9 / 7 / 6 / 5) | Arvioitu tuore maksimi **~10 myötäotteella** → testi 3:n tavoite on käytännössä käden ulottuvilla myös tiukemmalla otetulkinnalla. Tehty tuoreena (ei pyörälenkkiä ennen) |
+| 3 — Leuanveto (chin-up) | 24.8.2026 | **10 toistoa, RIR 1–2** ⭐ | 14 km kevyen pyöräilyn jälkeen. Arvioitu tuore maksimi ~11–12. **Vastaliikkeellä (chin-up) tavoitetaso saavutettu** — ks. huomio otevariaatiosta alla |
+| 3 — Leuanveto (chin-up) | 18.8.2026 | 7 uupumukseen (sarjat 7+7+6) | Kesken juoksulenkkiä, vuorotellen punnerrusten kanssa |
+
+**⚠ Avoin kysymys testi 3:sta — ote:** listan "tiukat leuanvedot" tarkoittaa benchmark-listoissa yleensä **myötäotetta (pull-up)**, joka on selvästi raskaampi kuin vastaliike (chin-up). Visan 10 × chin-up vastaa arviolta 7–8 × myötäote. **Ennen kuin testi 3 merkitään suoritetuksi, testataan myötäote erikseen** levänneenä. Jos tulkinta on chin-up, tavoite on jo täynnä.
+
 ---
 
 ## Huomiot Visalle
