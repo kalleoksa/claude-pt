@@ -79,9 +79,11 @@ Claude noudattaa näitä periaatteita seuraavaa treeniä ehdottaessaan:
 
   **Syy on rakenteellinen, ei yksittäinen treeni.** Yläkroppa saa aitoja lepopäiviä treenien välissä — ja se näkyy suoraan tuloksissa: 11.9. leuanveto 32 toistoa, vinopenkki 10/10/9, molemmat huipputasoa. **Alaraajat eivät saa yhtään aitoa lepopäivää**, koska pyöräily on lähes päivittäistä ja se on jalkatyötä. Viikon jalkakuorma: 8.9. porrastreeni (6 nousua, laskut eksentrisiä etureisille) + 33 km, 10.9. koko jalkatreeni (kyykkylaite 3 sarjaa, jalkaprässi 2 × 20 = 40 toistoa), 11.9. reppukotimatka, 12.9. 70 km. **Ei yhtään päivää ilman jalkakuormaa 7.9. jälkeen.**
 
-  **Kaksi seurausta:**
-  1. **15.9. taper: su ja ma ovat jalkavapaita, myös pyöräilyn osalta.** Maanantain työmatka pyörällä on 28 km jalkatyötä — se ei ole lepoa. Julkisilla tai hyvin kevyesti.
-  2. **Yleinen ohjelmointisääntö: kun lasketaan jalkojen kuormituspäiviä, työmatkapyöräily lasketaan mukaan.** Ehdotuslogiikan kohta 5 sanoo tämän jo muista lajeista; sitä ei ole sovellettu arkiajoon, vaikka se on viikon suurin yksittäinen jalkavolyymin lähde.
+  **Seuraus — ja tässä on tärkeä rajaus (Visa 12.9.):** *"En nyt tekisi tuosta työmatkapyöräilystä sinänsä treeniä, ajatellaan että se on ihan vaan hyvää ulkoilua ja hyötyliikuntaa."* **Tämä on oikea rajaus ja sitä noudatetaan.** Työmatkapyöräily **ei ole treeni** — sitä ei ohjelmoida, siihen ei tehdä progressiota eikä sitä rajoiteta ilman todella painavaa syytä. Se on arkiliikuntaa, ja se on nimenomaan se asia joka on rakentanut aerobisen pohjan (6.9. havainto).
+
+  **Ero on kirjanpidollinen, ei ohjelmallinen:** kun selitetään *miksi jalat tuntuvat väsyneiltä*, arkiajo kuuluu laskelmaan — se ei ole lepoa. Mutta siitä ei seuraa että ajamista pitäisi rajoittaa. **Säätimet ovat treenit, eivät työmatkat.**
+
+  ⚠️ **Ma 14.9. ainoa aito varaus on reppu, ei jalat.** Visa 12.9.: pyörällä töihin tarkoittaa aina reppua. **28.8. alaselkä meni jumiin nimenomaan painavasta ja huonosti pakatusta repusta**, ja se on dokumentoitu riski toisin kuin kevyen arkiajon jalkakuorma. Päivä ennen porrastreeniä on huono hetki ärsyttää selkää. **Ohje: aja normaalisti, mutta pakkaa reppu kevyeksi ja tiiviisti.**
 
   *Hyvä uutinen: väsymys palautuu nopeammin kuin lihasvaurio, ja Visa raportoi väsymystä ei arkuutta. Kaksi jalkavapaata päivää riittää todennäköisesti hyvin 15.9:ään.*
 
