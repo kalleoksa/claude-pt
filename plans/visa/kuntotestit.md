@@ -62,15 +62,17 @@ Chin-up kulkee rinnalla noin 1–3 toistoa edellä. Lopullinen vertailukohta on 
 
 ---
 
-## Testipäivä — suunnitelma (sovittu 31.8.2026)
+## Testipäivä — suunnitelma (sovittu 31.8.2026, ajankohta siirretty 16.9.2026)
 
-**Ehdotettu ajankohta: lauantai 19.9.2026.**
+⚠️ **19.9.2026 ei enää testipäivä.** Visa 16.9.: *"kuntotesti siirtyi lokakuulle, ei mennä sen ehdoilla... ei optimoida testien takia, ne tulevat kun tulevat ja jos on tehty systemaattisesti oikeita asioita, niin testitulokset kyllä parantuvat."* Ks. [[feedback-macro-over-micro]] -periaate laajennettuna testiaikatauluihin, ja [blokki-2026-09.md](./blokki-2026-09.md). **Uusi ajankohta: lokakuu, TBD** — ei liikuteta ohjelmaa testiä varten, testi tehdään kun se sopii.
 
-Perustelu: porrastreeni on ti 15.9. → jalat tarvitsevat 3–4 päivää ennen 85 toiston kyykkytestiä ja burpeeta. Viikonloppu = levänneenä, ei työpäivän jälkeistä väsymystä.
+**Alla oleva rakenne (levänneenä, kevennys ennen) pätee edelleen sisällöltään — vain sitova päivämäärä poistuu:**
 
-**Kevennys ennen testiä:**
-- **To 17.9. ja pe 18.9.:** ei jalkatreeniä, ei kovaa vetoa. Kevyt liike ja liikkuvuus käyvät.
-- **Pe 18.9.:** mieluiten lepo tai kevyt kävely.
+Perustelu levänneenä testaamiselle: 85 toiston kyykkytesti ja burpee vaativat tuoreet jalat, ja koko patteristo vie ~1 h 15 min → viikonloppu tai muu päivä ilman työpäivän jälkeistä väsymystä on paras ajoitus, milloin tahansa se osuukin.
+
+**Kevennys ennen testiä (kun päivä lopulta valitaan):**
+- Kaksi edeltävää päivää: ei jalkatreeniä, ei kovaa vetoa. Kevyt liike ja liikkuvuus käyvät.
+- Testiä edeltävä päivä: mieluiten lepo tai kevyt kävely.
 - Nuku hyvin, syö normaalisti.
 
 **Testipäivän kulku:**
