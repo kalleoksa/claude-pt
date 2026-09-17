@@ -66,7 +66,7 @@ Molemmissa on QR-koodi opastusvideoon laitteen kilvessä.
 **Kelkkakyykky (istuen) on kestävyys- ja lisävolyymiliike** — 20 toiston sarjoihin lähtökuorma ~30 kg/puoli, koska 45 kg/puoli riitti kymmeneen toistoon.
 
 ⚠️ **Vanhat dokumentit käyttävät ristissä olevia nimiä:** [ohjelma-v3.md](./ohjelma-v3.md):n varustetaulukko ja [treeniloki.md](./treeniloki.md):n 26.8. kirjaus. Tämä tiedosto on oikea lähde.
-| **Rekkitangot, useita eri korkeuksia** | ✓ | Leuanveto, dead hang, polvennostot, **matala tanko → inverted row**, L-sit tankojen välistä | Dead hang PR 1:10 (26.8.) |
+| **Rekkitangot, useita eri korkeuksia** | ✓ | Leuanveto, dead hang, polvennostot, **matala tanko → inverted row**, L-sit tankojen välistä | Dead hang PR 1:10 (26.8.). ⚠️ **Inverted row -kulma haastavampi kuin salilla** (Visa 17.9.): jalat ylempänä kuin käsien lähtökorkeus → negatiivinen kulma, vaikeampi kuin normaali inverted row. Käyttökelpoinen vaikeutusaskel, koska progressio tulee kulmasta, ei toistomäärästä |
 | **Soutulaitteet** (pari kpl) | ✓ | Vaakaveto ja pystyveto. ⚠️ **Ei taljoja — ei vaijeria lainkaan** (tarkennus 9.9.). Nimitys "ylä-/alatalja" viittaa vain siihen että **liikerata muistuttaa** niitä. Levykuormitteisia/vipuvarsilaitteita → kuormakäyrä ja tuntuma eroavat taljasta | Kuormaskaala tarkistettava |
 | **Taljat / vaijerilaitteet** | ✗ | **Ei ulkosalilla** → face pull tehdään omalla TRX:llä tai kuminauhalla, ei taljalla | |
 | **Pystypunnerruslaite** | ✓ | **Uusi tieto 9.9.** Pystypunnerruksen vaihtoehto ulkosalilla | Tarkistettava |
