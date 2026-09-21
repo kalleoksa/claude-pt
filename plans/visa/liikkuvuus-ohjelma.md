@@ -176,7 +176,7 @@ Kohdistuu mittareihin **M2, M5, M6** — pyöräilyasento, istumatyö, olkapää
 | **Seinäenkeli (wall angel)** | 10 | [🎬](https://www.youtube.com/watch?v=8DjCK31amn0) | Selkä, takaraivo ja kädet seinässä — liu'uta käsiä ylös. **Ryhtiliike, tuntuu vaikealta jos rintaranka on jäykkä.** |
 | **Lapatyö: seinäliuku + lapojen veto alas** | 10 | [🎬](https://www.youtube.com/watch?v=1ISlwQDLNHk) | |
 | **Olkapään kierto kepillä/pyyhkeellä** | 8 | [🎬](https://www.youtube.com/watch?v=Jbk4Tl4K8fM) | Leveä ote, kädet edestä pään yli taakse. Kavenna otetta kun liikkuvuus paranee — **tämä on M5:n suora harjoitus.** Videolla keppi; pyyhe toimii samoin |
-| **Rintalihaksen venytys oven karmissa** | 2 × 30 s/puoli | [🎬](https://www.youtube.com/watch?v=M850sCj9LHQ) | Pyöräilyasennon vastapaino. ⚠️ **Vasen olkapää: pidä maltillisena.** Video näyttää 90° abduktion, joka on lähellä SLAP-vamman mekanismia — kuormittamaton venytys on repon mukaan ongelmaton, mutta älä paina ääriasentoon vasemmalla |
+| **Rintalihaksen venytys oven karmissa** | 2 × 30 s/puoli | [🎬](https://www.youtube.com/watch?v=M850sCj9LHQ) | Pyöräilyasennon vastapaino, molemmat puolet samalla annoksella. *(Korjattu 21.9.2026: rivi viittasi vielä hylättyyn SLAP-varaukseen, ks. yllä 11.9. korjaus — molemmat olkapäät kipeytyvät yhtä lailla volyymistä, ei rakenteesta, joten ei erityistä vasemman puolen rajoitusta.)* |
 | **Lonkankoukistaja + kurotus yläviistoon** | 8/puoli | [🎬](https://www.youtube.com/watch?v=KyoK4Rf6_bE) | Yhdistää ryhdin ja lonkan — istumatyön kaksi ongelmaa samassa. |
 
 *Videot lisätty 9.9.2026, myös [videokirjastoon](../../knowledge/videos/videokirjasto.md).*
