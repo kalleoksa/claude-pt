@@ -70,13 +70,13 @@ Molemmissa on QR-koodi opastusvideoon laitteen kilvessä.
 | **Soutulaitteet** (pari kpl) | ✓ | Vaakaveto ja pystyveto. ⚠️ **Ei taljoja — ei vaijeria lainkaan** (tarkennus 9.9.). Nimitys "ylä-/alatalja" viittaa vain siihen että **liikerata muistuttaa** niitä. Levykuormitteisia/vipuvarsilaitteita → kuormakäyrä ja tuntuma eroavat taljasta | Kuormaskaala tarkistettava |
 | **Taljat / vaijerilaitteet** | ✗ | **Ei ulkosalilla** → face pull tehdään omalla TRX:llä tai kuminauhalla, ei taljalla | |
 | **Pystypunnerruslaite** | ✓ | **Uusi tieto 9.9.** Pystypunnerruksen vaihtoehto ulkosalilla | Tarkistettava |
-| **Penkki + vinopenkki** | ⚠️ | Punnerrusasemat. **Copenhagen ei onnistu penkillä** — Visa 10.9.: *"siellä ei ole penkkiä"*, eli vapaata siirrettävää penkkiä jolle jalan voisi nostaa ei ole; 9.9. listatut "penkki" ja "vinopenkki" ovat ilmeisesti laitteisiin kiinteitä punnerrusasemia. **Tarkennettava.** Copenhagenin korvaus: **jalka matalalle rekkitangolle** | Vinopenkki KP 20 kg × 8 |
+| **Penkki + vinopenkki** | ⚠️ | **Kiinteitä laitepunnerrusasemia, EI vapaita penkkejä eikä käsipainoja** — Visa 10.9.: *"siellä ei ole penkkiä"*, eli vapaata siirrettävää penkkiä jolle jalan voisi nostaa ei ole. **Copenhagen ei onnistu penkillä** tästä syystä, korvaus: jalka matalalle rekkitangolle. ⚠️ **Vinopenkki käsipainoilla EI ole mahdollinen ulkosalilla** (vahvistettu 22.9. — ei käsipainoja, levypainoja eikä vapaata tankoa koko ulkosalilla) | — |
 | **Vatsapenkki** | ✓ | Vatsa 60 s | |
 | **Selänojennuspenkki** | ✓ | Selän ojennus | |
 | **Hauis-/pystysoutulaite** | ✓ | *"On vähän erikoinen"* — hauiskääntö, pystysoutu. Matala prioriteetti | |
 | **Vapaa tanko + levyt** | ✗ | **Ei ulkosalilla** (v2) → **kyykkykestävyys 30 kg ei onnistu ulkosalilla.** Korvaus: kyykkylaite tai goblet squat KB:llä | |
 | **Kahvakuula** | ✗ | Otettava mukaan (24 kg) | |
-| **Kuminauha** | ✗ | Otettava mukaan | |
+| **Kuminauha** | ✗ | Otettava mukaan. **Visan oma: semipaksu, ei jäykimpiä** — 22.9. tarkennus: **avustaa hieman leuanvedossa** (ei vain ulkokiertoon/face pulliin) | |
 | **TRX** | — | **Omat, mukaan.** Ratkaisee nordic curlin korvaajan (TRX hamstring curl) myös ulkosalilla | |
 | **Dippiteline** | ✓ | **Vahvistettu 9.9.** Dippi, L-sit. Dipin paluusuunnitelma (v4, tarkistuspiste 19.9. jälkeen) on siis toteutettavissa | |
 
