@@ -231,7 +231,7 @@ Kohdistuu mittareihin **M2, M5, M6** — pyöräilyasento, istumatyö, olkapää
 | Sessio | Frekvenssi | Sijoitus |
 |--------|-----------|----------|
 | **Mikroannos (A/B/C)** | **2–3 × /työpäivä** | **Ohjelman runko.** Työpäivän aikana. |
-| **Yksi pidempi sessio** — Liikkuvuus A, B tai C kierrossa | **1 × /vko** | **Viikonloppuna, kevyenä tai lepopäivänä.** Ei kovan jalkatreenin kanssa samana päivänä. |
+| **Yksi pidempi sessio** — Liikkuvuus A, B tai C kierrossa | **1 × /vko** | **Viikonloppuna, kevyenä tai lepopäivänä.** *(Tarkennettu 27.9.2026: koskee vain Liikkuvuus B:tä — alaraaja/nilkka/lonkka/takaketju käyttää samoja kudoksia kuin kova jalkatreeni, joten ne kilpailevat samana päivänä. **Liikkuvuus C (yläkroppa: rintaranka, olkapää, ryhti) EI kilpaile jalkatreenin kanssa** — eri kudokset, sopii hyvin samaan päivään. Liikkuvuus A on sekakuorma, harkitse tapauskohtaisesti.)* |
 | Salin perään | vapaaehtoinen | Enintään 2 min jos siltä tuntuu — ei pakollinen, sali venyy muutenkin pitkäksi |
 | Lihashuolto | tarpeen mukaan | Taulukon mukaan |
 
