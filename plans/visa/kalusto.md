@@ -29,6 +29,7 @@
 | **Penkki** | ✓ | Penkkipunnerrus, askelkyykyn tuki, Copenhagen | Kapea penkki 45 kg |
 | **Vatsapenkki** | ✓ | Vatsa 60 s *(kuntotestin liike)* | 31 toistoa / 60 s (4.9.) |
 | **Selänojennuspenkki** | ✓ | Selän ojennus, mahdollinen nordic curl -tuki | |
+| **Lantionnosto kuormalla** | ✗ | **Ei ohjelmaan (Visa 7.10.2026):** epämiellyttävä ja hankala tehdä, salilla ei ole lonkkapehmusteita. Lokissa ei koskaan kuormaa (24.8., 27.8., 28.8.). Lantionnosto vain kehonpainolla tai yhden jalan versiona (28.8. 3 × 12/jalka, "selvästi rankempi") | |
 | **Foam roller** | ✓ | **Rintarangan ojennus rullerin yli** (Liikkuvuus C, prioriteetti M2), selän rullaus. Käytetty 27.8. | |
 | **Tavallinen istumapenkki / tuoli selkänojalla** | ✗ | **Ei salilla** (Visa 11.9.) → rintarangan ojennuksen tuoliversio on kotivaihtoehto. Salilla käytetään rulleria; varavaihtoehto on **vinopenkki pystyasentoon säädettynä** | |
 | **Soutulaite** | ✓ | Hengästyttävä osio, lämmittely | |
