@@ -124,3 +124,16 @@ Opastavat YouTube-videot liikkeittäin. Yksi hyvä video per liike — tekniikka
 | Rintalihaksen venytys oven karmissa | [Doorway Pec Stretch — 90° Abduction (MedBridge)](https://www.youtube.com/watch?v=M850sCj9LHQ) | Claude |
 | Lonkankoukistaja + kurotus yläviistoon | [Half-Kneeling Hip Flexor Stretch w/ Overhead Reach](https://www.youtube.com/watch?v=KyoK4Rf6_bE) | Claude |
 | Lonkan heilautus (leg swings) — eteen-taakse ja sivulle | [How To Do Leg Swings](https://www.youtube.com/watch?v=difYoBtZi2s) · [Eteen-taakse erikseen](https://www.youtube.com/watch?v=0XvKtEZ4i38) | Claude |
+
+### Liikkuvuus B -session videot (lisätty 8.10.2026)
+
+*Löydetty hakutulosten otsikoiden/kuvausten perusteella — **videoita ei ole katsottu**, tarkista että tekniikka vastaa ohjelman kuvausta ([liikkuvuus-ohjelma.md](../../plans/visa/liikkuvuus-ohjelma.md)).*
+
+| Liike | Video | Lisääjä |
+|-------|-------|---------|
+| Takaketjun kurotus (dynaaminen takareisi, M4) | [Hamstring Hinge Stretch](https://www.youtube.com/watch?v=BVq9x15BfII) · [Dynamic Hamstring Stretch](https://www.youtube.com/watch?v=GBmrncZApes) | Claude |
+| Kyyhkysasento dynaamisena | [Warm-Up & Hip Mobility Drill: Dynamic Pigeons](https://www.youtube.com/watch?v=IliGTDzYnvs) | Claude |
+| Syvä kyykkypito + polvien työntö ulos | [Deep Squat With Knee Press-Out](https://www.youtube.com/watch?v=XwWwDho1lIc) · [Deep Squat Ankle Rocks + Knee Press-Out](https://www.youtube.com/watch?v=Z-WZJgAbnaM) | Claude |
+| Nilkan mobilisointi seinää vasten | [Knee to Wall](https://www.youtube.com/watch?v=u3NbKOXl75k) (sama asento kuin M1-mittaus) | Claude |
+| 90/90 lonkkakierto | ks. yllä (Core ja stabiliteetti) | Claude |
+| Askelkyykky + lantion työntö eteen | lähin: [Half-Kneeling Hip Flexor Stretch](https://www.youtube.com/watch?v=KyoK4Rf6_bE) | Claude |
