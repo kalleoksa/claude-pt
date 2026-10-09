@@ -94,7 +94,7 @@ Perustelu levänneenä testaamiselle: 85 toiston kyykkytesti ja burpee vaativat 
 
 ## Huomiot testien turvallisuudesta (8/2026 tilanne)
 
-- **Burpee:** sisältää hyppyjä → etujalkaterän kuorma. Päkiä on oireillut 8/2026 (ks. [treeniloki.md](./treeniloki.md)). Tee testi vasta kun päkiä on rauhallinen, ja uusissa kengissä.
+- **Burpee:** sisältää hyppyjä → etujalkaterän kuorma. Päkiä on oireillut 8/2026 (ks. [treeniloki.md](./treeniloki.md)). Tee testi vasta kun päkiä on rauhallinen, ja uusissa kengissä. **Päivitys 9.10.2026 (Visa): päkiäoireita ei ole ollut hetkeen, uudet juoksukengät ratkaisivat ongelman, jalkapohjat ok; porrastreenit ovat jääneet pois (aiheuttivat oireet vanhoilla kengillä).** Lokin mukaan uusilla kengillä oireita ei tullut 30.8., 8.9. eikä 15.9. porrasteissa → tukee kenkähypoteesia.
 - **Kyykkytesti (85 toistoa):** valtava volyymi → useiden päivien DOMS, etenkin kun jalkatreeni on ollut epäsäännöllistä. Älä laita samalle viikolle porrastreenin kanssa.
 - **Alaselkä:** kyykky- ja burpeetestit kuormittavat. Testipäivä vasta kun selkä on kunnossa.
 - **Testipäivä tehdään levänneenä** — sama lämmittely ja järjestys joka kerta, muuten tulokset eivät ole vertailukelpoisia.
