@@ -14,6 +14,8 @@
 
 ---
 
+> **Sanasto: räkkileuat (Visa 10.10.2026)** = leuanveto **neutraalilla otteella kahdesta erillisestä tangosta** (kämmenet kohti toisiaan, tanko "eri suunnassa kuin itse"; kumpikin käsi omassa tangossaan). **Ei pull-up eikä chin-up, ei "rekkileuka"**; Visan mukaan hieman helpompi kuin kumpikaan. Nosto: olkapäät lähes tankojen tasolle, pää tankojen yläpuolelle. Kirjataan omana liikkeenään (ei vertailukelpoinen pull-up/chin-up-lukuihin). Tarvitsee kaksi rinnakkaista tankoa tai räkin tolpat — **paikka-/laitevarmistus kunkin salin osalta kirjaamatta**; Visa on tehnyt niitä työpaikan salilla (7.10.).
+
 ## Työpaikan sali
 
 *Kiinteä treenipaikka, usein Mikaelin kanssa. Ei tarvitse kantaa mitään mukana.*
