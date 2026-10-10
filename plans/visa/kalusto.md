@@ -74,8 +74,8 @@ Molemmissa on QR-koodi opastusvideoon laitteen kilvessä.
 | **Taljat / vaijerilaitteet** | ✗ | **Ei ulkosalilla** → face pull tehdään omalla TRX:llä tai kuminauhalla, ei taljalla | |
 | **Pystypunnerruslaite** | ✓ | **Uusi tieto 9.9.** Pystypunnerruksen vaihtoehto ulkosalilla | Tarkistettava |
 | **Penkki + vinopenkki** | ✓ laitteina | **Omnigym-merkkisiä kiinteitä punnerruslaitteita: penkki (vaakapunnerrus), vinopenkki ja pystypunnerruslaite** (tarkennus 22.9.) — EI vapaita penkkejä eikä käsipainoja. **Copenhagen ei onnistu penkillä** tästä syystä (ei siirrettävää penkkiä jalan nostoon), korvaus: jalka matalalle rekkitangolle. ⚠️ **Vinopenkki käsipainoilla EI ole mahdollinen** — mutta Omnigym-vinopenkkilaite kyllä. **Kuormaa ei voi verrata suoraan käsipainokiloihin** (eri vastusmekanismi, levykuormitteinen laite) — kirjaa laitekuorma omana sarjanaan, älä sekoita KP-historiaan | — |
-| **Vatsapenkki** | ✓ | Vatsa 60 s | |
-| **Selänojennuspenkki** | ✓ | Selän ojennus | |
+| **Vatsapenkki** | ✓ | Vatsa 60 s | Telineen edessä, kuvassa vasemmalla (kuva Visalta 10.10.: sama paikka) |
+| **Selänojennuspenkki** | ✓ | Selän ojennus | Telineen edessä, kuvassa oikealla (vahvistettu 10.10.). Rakenne: iso street workout -kehikko, jossa yläkehikko useilla tangoilla eri suuntiin, keskellä vaakatanko, taustalla pleyobox |
 | **Hauis-/pystysoutulaite** | ✓ | *"On vähän erikoinen"* — hauiskääntö, pystysoutu. Matala prioriteetti | |
 | **Vapaa tanko + levyt** | ✗ | **Ei ulkosalilla** (v2) → **kyykkykestävyys 30 kg ei onnistu ulkosalilla.** Korvaus: kyykkylaite tai goblet squat KB:llä | |
 | **Kahvakuula** | ✗ | Otettava mukaan (24 kg) | |
