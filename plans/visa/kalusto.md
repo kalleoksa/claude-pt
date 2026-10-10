@@ -14,7 +14,7 @@
 
 ---
 
-> **Sanasto: räkkileuat (Visa 10.10.2026)** = leuanveto **neutraalilla otteella kahdesta erillisestä tangosta** (kämmenet kohti toisiaan, tanko "eri suunnassa kuin itse"; kumpikin käsi omassa tangossaan). **Ei pull-up eikä chin-up, ei "rekkileuka"**; Visan mukaan hieman helpompi kuin kumpikaan. Nosto: olkapäät lähes tankojen tasolle, pää tankojen yläpuolelle. Kirjataan omana liikkeenään (ei vertailukelpoinen pull-up/chin-up-lukuihin). Tarvitsee kaksi rinnakkaista tankoa tai räkin tolpat — **paikka-/laitevarmistus kunkin salin osalta kirjaamatta**; Visa on tehnyt niitä työpaikan salilla (7.10.).
+> **Sanasto: räkkileuat (Visa 10.10.2026)** = leuanveto **neutraalilla otteella kahdesta erillisestä tangosta** (kämmenet kohti toisiaan, tanko "eri suunnassa kuin itse"; kumpikin käsi omassa tangossaan). **Ei pull-up eikä chin-up, ei "rekkileuka"**; Visan mukaan hieman helpompi kuin kumpikaan. Nosto: olkapäät lähes tankojen tasolle, pää tankojen yläpuolelle. Kirjataan omana liikkeenään (ei vertailukelpoinen pull-up/chin-up-lukuihin). Tarvitsee kaksi rinnakkaista tankoa tai räkin tolpat. **Ulkosali ✓ (Visa 10.10.): räkkiteline, jossa useita erillisiä tankoja — voi heilauttaa itsensä tangosta toiseen.** Sama teline mahdollistaa **inverted rown erillisistä tangoista (neutraaliote): roiku tangoissa, keho suorana, jalat ylös kehikon päälle, veto kohti tankoja** — erittäin haastava, kulma säädettävissä (vrt. rekkitangot-rivin inverted row -huomio 17.9.). Työpaikan salilla räkkileuat tehty 7.10.
 
 ## Työpaikan sali
 
