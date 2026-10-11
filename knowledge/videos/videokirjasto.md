@@ -123,6 +123,7 @@ Opastavat YouTube-videot liikkeittäin. Yksi hyvä video per liike — tekniikka
 | Olkapään kierto kepillä/pyyhkeellä (pass-through) | [Shoulder "Dislocations" with a Broom Stick](https://www.youtube.com/watch?v=Jbk4Tl4K8fM) | Claude |
 | Rintalihaksen venytys oven karmissa | [Doorway Pec Stretch — 90° Abduction (MedBridge)](https://www.youtube.com/watch?v=M850sCj9LHQ) | Claude |
 | Lonkankoukistaja + kurotus yläviistoon | [Half-Kneeling Hip Flexor Stretch w/ Overhead Reach](https://www.youtube.com/watch?v=KyoK4Rf6_bE) | Claude |
+| Lasten asento, kädet sivulle (lat/olkapää, Liikkuvuus C kohta 7) | [Child's pose with side reach](https://www.youtube.com/watch?v=YTAwpiX2Dsg) *(löydetty hakutuloksesta 11.10.2026, kuvauksen mukaan lat, olkapäät, kylki + lonkka; **ei katsottu**)* | Claude |
 | Lonkan heilautus (leg swings) — eteen-taakse ja sivulle | [How To Do Leg Swings](https://www.youtube.com/watch?v=difYoBtZi2s) · [Eteen-taakse erikseen](https://www.youtube.com/watch?v=0XvKtEZ4i38) | Claude |
 
 ### Liikkuvuus B -session videot (lisätty 8.10.2026)

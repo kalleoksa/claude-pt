@@ -195,7 +195,7 @@ Visa 11.10.: ylläolevat annokset (8 toistoa, 3 s pito) ovat liian kevyitä ja v
 | 4 | Seinäenkeli | 3 × 12, 2 s pito ylhäällä |
 | 5 | Lapatyö (seinäliuku + lapojen veto alas) | 3 × 12 |
 | 6 | Olkapään kierto pyyhkeellä, ote kapenee asteittain | 3 × 15 hitaasti, 3–5 s pito takana |
-| 7 | Lasten asento, kädet sivulle (lat/olkapää) | 3 × 40 s/puoli |
+| 7 | Lasten asento, kädet sivulle (lat/olkapää) — [video](https://www.youtube.com/watch?v=YTAwpiX2Dsg) *(ei katsottu)* | 3 × 40 s/puoli |
 | 8 | Rintalihas oven karmissa | 3 × 45 s/puoli |
 | 9 | Lonkankoukistaja + kurotus yläviistoon | 3 × 10/puoli, 2 s pito |
 
