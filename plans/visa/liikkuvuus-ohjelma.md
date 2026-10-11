@@ -170,7 +170,7 @@ Kohdistuu mittareihin **M2, M5, M6** — pyöräilyasento, istumatyö, olkapää
 
 | Liike | Annos | Video | Huomio |
 |-------|-------|-------|--------|
-| **Rintarangan ojennus tuolin selkänojan yli** | 8 toistoa | [🎬](https://www.youtube.com/watch?v=4DgM17tIwtw) | Kädet niskan takana, uloshengitys ojennuksessa. *(Kotona ei foam rolleria — salilla sen yli.)* |
+| **Rintarangan ojennus tuolin selkänojan yli** | 8 toistoa | [🎬](https://www.youtube.com/watch?v=4DgM17tIwtw) | Kädet niskan takana, uloshengitys ojennuksessa. *(Kotona ei foam rolleria — salilla sen yli.)* **Visan kotiversio (11.10.2026): selinmakuulla rullatun pyyhkeen päällä (ei tuolilla/penkillä), pyyhkeen kohtaa rintarangalla vaihdellen, alaselkä pidetään suhteellisen kiinni lattiassa.** |
 | **Open book -kierto** | 8/puoli, 3 s pito | [🎬](https://www.youtube.com/watch?v=5TdmVlQe64c) | Kylkimakuulla, polvet 90°, ylempi käsi avautuu. |
 | **Kissa-kameli** | 10 | [🎬](https://www.youtube.com/watch?v=8qrClhwJdyE) | Koko selkärangan liike. |
 | **Seinäenkeli (wall angel)** | 10 | [🎬](https://www.youtube.com/watch?v=8DjCK31amn0) | Selkä, takaraivo ja kädet seinässä — liu'uta käsiä ylös. **Ryhtiliike, tuntuu vaikealta jos rintaranka on jäykkä.** |
