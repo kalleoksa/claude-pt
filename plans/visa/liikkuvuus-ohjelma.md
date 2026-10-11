@@ -181,6 +181,22 @@ Kohdistuu mittareihin **M2, M5, M6** — pyöräilyasento, istumatyö, olkapää
 
 *Videot lisätty 9.9.2026, myös [videokirjastoon](../../knowledge/videos/videokirjasto.md).*
 
+#### Liikkuvuus C — täysi versio (~25 min), Visan vaatimuksesta 11.10.2026
+
+Visa 11.10.: ylläolevat annokset (8 toistoa, 3 s pito) ovat liian kevyitä ja varovaisia — liikkuvuustreenit ovat usein 20–30 min ja isompia, ja tulokset vaativat enemmän annosta. **Hyväksytty:** alla oleva versio on **viikonlopun/lepopäivän pääsessio**; taulukon yllä oleva lyhyt versio jää mikroannokseksi/lämmittelyksi. *(Perustelu: liikkuvuuden muutos riippuu viikoittaisesta venytysajasta lihasryhmää kohti — yleinen tutkimustieto, ei repon dokumenteista; ~5 min/vk/lihasryhmä tai enemmän. Alkuperäinen annos jäi sen alle. Vaikutus selviää M1–M6-uusintamittauksessa 3–4 vk:n päästä.)*
+
+| # | Liike | Annos |
+|---|-------|-------|
+| 1 | Kissa-kameli | 2 × 12 |
+| 2 | Open book | 2 × 10/puoli, 5 s pito |
+| 3 | Rintaranka pyyhkeellä selinmakuulla, **kädet suorina pään yli** | 4 kohtaa × 45–60 s |
+| 4 | Seinäenkeli | 3 × 12, 2 s pito ylhäällä |
+| 5 | Lapatyö (seinäliuku + lapojen veto alas) | 3 × 12 |
+| 6 | Olkapään kierto pyyhkeellä, ote kapenee asteittain | 3 × 15 hitaasti, 3–5 s pito takana |
+| 7 | Lasten asento, kädet sivulle (lat/olkapää) | 3 × 40 s/puoli |
+| 8 | Rintalihas oven karmissa | 3 × 45 s/puoli |
+| 9 | Lonkankoukistaja + kurotus yläviistoon | 3 × 10/puoli, 2 s pito |
+
 ### Mikroannos työpäivälle — ohjelman perusta
 
 **Tämä on liikkuvuustyön runko, ei lisä** (sovittu 4.9.2026). Perustelu: istumatyö on Visan suurin yksittäinen liikkuvuutta heikentävä tekijä, eikä sitä kumota kerran viikossa. Erilliset sessiot jäävät tekemättä; työpäivään kiinnitetty tapa ei jää.
