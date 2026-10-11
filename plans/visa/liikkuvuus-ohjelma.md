@@ -181,7 +181,9 @@ Kohdistuu mittareihin **M2, M5, M6** — pyöräilyasento, istumatyö, olkapää
 
 *Videot lisätty 9.9.2026, myös [videokirjastoon](../../knowledge/videos/videokirjasto.md).*
 
-#### Liikkuvuus C — täysi versio (~25 min), Visan vaatimuksesta 11.10.2026
+#### Liikkuvuus C — täysi versio (~30–35 min suorina sarjoina; arvio korjattu 11.10., aiempi "~25 min" oli liian optimistinen), Visan vaatimuksesta 11.10.2026
+
+**Kiertoharjoitteluversio (Visan ehdotus 11.10.):** kierros 1 = kohdat 1–9 (kohta 3 kahdesti peräkkäin = 2 pyyhkeen kohtaa), kierros 2 = sama, kierros 3 = kohdat 4–9, lopuksi lyhyt kierros (esim. 6 + 7 = M5:n suorat liikkeet). Annos yhteensä = taulukon annos (kohdat 1–2: 2 sarjaa, 3: 4 kohtaa, 4–9: 3 sarjaa), kiertona. Sarjakohtainen annos jaetaan: kohdat 3, 7, 8 pidot ~45 s kierrosta kohti.
 
 Visa 11.10.: ylläolevat annokset (8 toistoa, 3 s pito) ovat liian kevyitä ja varovaisia — liikkuvuustreenit ovat usein 20–30 min ja isompia, ja tulokset vaativat enemmän annosta. **Hyväksytty:** alla oleva versio on **viikonlopun/lepopäivän pääsessio**; taulukon yllä oleva lyhyt versio jää mikroannokseksi/lämmittelyksi. *(Perustelu: liikkuvuuden muutos riippuu viikoittaisesta venytysajasta lihasryhmää kohti — yleinen tutkimustieto, ei repon dokumenteista; ~5 min/vk/lihasryhmä tai enemmän. Alkuperäinen annos jäi sen alle. Vaikutus selviää M1–M6-uusintamittauksessa 3–4 vk:n päästä.)*
 
