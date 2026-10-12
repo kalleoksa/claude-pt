@@ -92,7 +92,7 @@ Opastavat YouTube-videot liikkeittäin. Yksi hyvä video per liike — tekniikka
 | 90/90 lonkkavenytys — staattinen versio | [90/90 Hip Stretch](https://www.youtube.com/watch?v=t4Zz6-aG8Iw) | Claude |
 | Inverted row (tanko telineessä) | [Inverted Row (Barbell in Rack)](https://www.youtube.com/watch?v=5QmLzlmH5eM) | Claude |
 | Sivulankku + jalan abduktio | [Side Plank Hip Abduction](https://www.youtube.com/watch?v=U243vJJ7XXs) | Claude |
-| Pallof press | | |
+| Pallof press (ristitalja) | [Cable Pallof Press](https://www.youtube.com/watch?v=xeFp4MXad98) · [Pallof Press Anti-Rotation: Core Stability](https://www.youtube.com/watch?v=0C99UZkbRQg) *(löydetty hausta 12.10.2026, kuvaukset luettu, videoita ei katsottu)* | Claude |
 | Copenhagen plank — lyhyt vipu (aloitus) | [Short Lever Copenhagen Plank Tutorial](https://www.youtube.com/watch?v=bU8aazv5voo) | Visa |
 | Copenhagen plank — pitkä vipu (edistynyt) | [Long Lever Copenhagen Plank Tutorial](https://www.youtube.com/watch?v=o053rmFZZ-I) | Visa |
 
