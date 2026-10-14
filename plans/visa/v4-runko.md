@@ -1,4 +1,4 @@
-# v4-runko — ohjelmoinnin iso kuva (LUONNOS 14.10.2026, odottaa Visan hyväksyntää)
+# v4-runko — ohjelmoinnin iso kuva (HYVÄKSYTTY Visalta 14.10.2026 ehdoilla, ks. kohta 7)
 
 **Miksi tämä on olemassa:** Visa 14.10.2026: *"miten varmistat että kokonaisuus pysyy kasassa ja treenit etenevät, eikä tehdä randomisti — ohjelmoi fiksusti, että kunto kasvaa ja vammat vältetään. Muista primäärit tavoitteet."* Tämä dokumentti on se runko, johon jokainen treeniehdotus (21.10. alkaen) sidotaan. Jos ehdotus ei sovi tähän, sitä ei ehdoteta ilman perustelua.
 
@@ -57,9 +57,18 @@ Repossa ei ole ollut selkeää viikkosarjatavoitetta per lihasryhmä, vaikka pri
 - **Väline:** soutulaite (työpaikan sali); kehonpainoliikkeet B-viikolla; crosstrainer ei (Visa 14.10.).
 - **Testispesifinen B-viikko:** burpee/vatsa/kyykkykestävyys kevyellä volyymilla — ei ensisijainen kuntotyökalu.
 
-## 7. Avoimet päätökset (Visa)
+## 7. Päätökset (Visa 14.10.2026)
 
-1. Vahvistatko tavoitehierarkian (primääri: lihasmassa; leuanveto pysyvä päätavoite; liikkuvuus/peruskunto sekundäärinen)?
-2. Seurataanko kehonkoostumusta (kehonpaino/ympärysmitat kk)?
-3. Sykemittari: repo kertoo vanhasta mittarista + vyöstä (paristo vaihdettava) — etsitkö vielä vai ostetaanko uusi?
-4. Hyväksytkö viikkomallin (S1–S5) ja viikkokatselmuksen pohjaksi 21.10. alkavalle blokille?
+1. ✅ **Tavoitehierarkia vahvistettu** (primääri: lihasmassa; leuanveto pysyvä päätavoite; liikkuvuus/peruskunto sekundäärinen).
+2. ✅ **Kehon seuranta:** **kehonpaino kuukausittain, ympärysmitat kvartaaleittain, kehonkoostumus puolivuosittain.** Ensimmäinen kirjaus sovitaan erikseen (kirjaa tähän: pvm / paino / mitat / koostumus).
+3. ✅ **Sykemittari:** Visa etsii vanhan mittarin ja vyön; todennäköisesti ostaa uuden (arvio: Black Friday -viikko ~27.11.2026). **Siihen asti HIIT-intensiteetti RPE:llä (8–9/10, saa sanottua vain muutaman sanan) ✗.**
+4. ✅ **Viikkomalli (S1–S5) ja viikkokatselmus hyväksytty** pohjaksi 21.10. alkavalle blokille, **ehdoilla:** (a) perustuu tutkittuun tietoon, (b) pysyy mielekkäänä ja kehittyy, (c) **joustaa viikoittain ulkoisiin tapahtumiin** (kaverin kanssa treeni, kuntotesti ym.) — katso kohta 8.
+
+## 8. Joustosääntö (Visa 14.10.2026)
+
+Kun viikolle tulee ulkoinen tapahtuma (kaverin treeni, kuntotesti, kisa yms.), **Claude muokkaa viikkoa sen mukaan, ei vastusta sitä:**
+1. **Tapahtuma lasketaan sessioksi** (kuormaksi) sille slotille, johon se sopii (esim. HIIT-slotti, ylä- tai jalkasessio) — ei "ylimääräiseksi päälle".
+2. **Ei pinota:** samaa kuormaa/lihasryhmää ei toisteta 48 h sisällä; karsi päällekkäinen sessio pois tai kevennä.
+3. **Prioriteetit säilyvät:** tuore leuanveto (asema 1) ja primääriliikkeiden progressio siirretään, ei pudoteta; jos viikolta joutuu pudottamaan, pudota ensin variaatio/HIIT, sitten apuliikkeet.
+4. **Kuntotestiviikko:** 2 pv ennen ei kovaa jalkaa/vetoa; ei uusia liikkeitä/ärsykkeitä; testiä seuraava viikko = kevyempi jalkaviikko (DOMS), v4-blokki alkaa silti suunnitelmasta mutta jalkavolyymi ~puolitettuna ensimmäisellä viikolla ✗ (oma ehdotus).
+5. Kirjaa muutos lokiin ("viikko muutettu: syy") ja ilmoita Visalle yhdellä rivillä.
