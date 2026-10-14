@@ -15,6 +15,7 @@
 | **Vatsa** | Maksimitoistomäärä 60 sekunnissa. **Suoritus (vahvistettu 4.9.2026): istumaannousu lattialta, kaveri pitää jaloista.** Testipäivänä käytetään tätä versiota. *Harjoittelussa saa käyttää raskaampaa versiota (vatsapenkki, kaareva alaselkätuki) — parempi ärsyke, mutta luvut eivät vertaudu: 31 penkissä (4.9.2026) ei ole verrattavissa 49:ään lattialta (13.1.2025).* |
 | **Burpee** | Maksimitoistomäärä 90 sekunnissa. **Suoritus:** rinta käy maassa (varsinaista punnerrusta ei vaadita) + **hyppy ylös** joka toistossa. ⚠️ Hyppy = etujalkaterän kuorma → päkiäseuranta. Älä muuta suoritustapaa testipäivänä, se rikkoisi vertailukelpoisuuden. |
 | **Leuat** | Maksimitoistomäärä |
+| **Dead hang (kuudes testi, lisätty 14.10.2026)** | **Maksimiroikkuminen tangossa (sekunnit), tehdään viimeisenä leuanvedon jälkeen** (Visan päätös: kehitys näkyy omana mittarinaan). Ote ja suoritus kirjataan (myötäote/vastaote, ei kuminauhaa). Lähtötaso: **ensimmäinen kerta ti 20.10.2026** — vertailukohdat lokista: 73 s tuoreempana (ke 14.10.), 55 s leuanvedon jälkeen (5.10.) → testissä luku on todennäköisesti alhaisempi kuin tuore maksimi, koska ote on jo väsynyt leuoista; vertaa jatkossa vain samaan asemaan (leuat edellä). |
 
 ---
 
@@ -77,7 +78,7 @@ Perustelu levänneenä testaamiselle: 85 toiston kyykkytesti ja burpee vaativat 
 
 **Testipäivän kulku:**
 1. Lämmittely ~10 min: ketjuliikkuvuus + olkapään ulkokierto + kevyet kehonpainokyykyt (sama joka kerta)
-2. Testit järjestyksessä: **pystypunnerrus → kyykky (30 kg) → vatsa → burpee → leuat**
+2. Testit järjestyksessä: **pystypunnerrus → kyykky (~35 kg, ks. yllä) → vatsa → burpee → leuat → dead hang (kuudes, lisätty 14.10.2026)**
 
    **Odotus leuanvedosta:** luku jää selvästi alle tuoreen maksimin (~9–10 myötäotteella / ~11 chin-upilla), koska edellä on neljä maksimitestiä. Näin on ollut aina — vertailu 11 (9.1.2024) / 20 (13.1.2025) pitää silti.
 3. Tauko testien välissä riittävä — kirjaa käytetty tauko, jotta se on toistettavissa
