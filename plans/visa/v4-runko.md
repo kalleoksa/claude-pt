@@ -66,6 +66,16 @@ Repossa ei ole ollut selkeää viikkosarjatavoitetta per lihasryhmä, vaikka pri
 3. ✅ **Sykemittari:** Visa etsii vanhan mittarin ja vyön; todennäköisesti ostaa uuden (arvio: Black Friday -viikko ~27.11.2026). **Siihen asti HIIT-intensiteetti RPE:llä (8–9/10, saa sanottua vain muutaman sanan) ✗.**
 4. ✅ **Viikkomalli (S1–S5) ja viikkokatselmus hyväksytty** pohjaksi 21.10. alkavalle blokille, **ehdoilla:** (a) perustuu tutkittuun tietoon, (b) pysyy mielekkäänä ja kehittyy, (c) **joustaa viikoittain ulkoisiin tapahtumiin** (kaverin kanssa treeni, kuntotesti ym.) — katso kohta 8.
 
+## 9. Punnerrus ja olkapäät — selvitystyö (Visa 15.10.2026)
+
+**Havainto:** molemmissa olkapäissä kipu etuosassa **etunojapunnerrusasentoon mentäessä ja laskuvaiheen alussa** (ei levossa, ei estä suorittamista, ≤ ~3/10); **käsipainoilla tehdyt vinopenkki ja pystypunnerrus toimivat paremmin.** Visan hypoteesi: asento-/tekniikkavirhe tai tottumattomuus, mahdollisesti liikkuvuus. Symmetria → todennäköisemmin kuormitus/asento kuin leikattu rakenne (✗ päättely).
+
+**Tuki (hakutulos 15.10., ◐ pieniä tutkimuksia/klinikkaohjeita):** käsiasento muuttaa lavan liikettä punnerruksessa ja kivuliailla liike oli rajoittuneempaa (pieni tutkimus, 12 + 12 urheilijaa); kyynärpäät ~30–60° vartalosta eikä leveälle ("T"); serratus anterior -työ (push-up plus, lapapunnerrus) on tavallinen kuntoutusaskel. Lähteet: springer.com/article/10.1186/s13018-025-06212-1, ncbi.nlm.nih.gov/pmc/articles/PMC4327800/, physio-pedia.com/Push_Up_Plus_Exercise.
+
+**Selvityslaatikko (v4-aloitus 21.10. jälkeen, kipu ≤ 2/10):** (A) lankku käsien varassa 20–30 s — kipu jo asennossa? (B) lapapunnerrus (scapular push-up) 2 × 10; (C) kädet neutraalisti (kahvakuulat/käsipainot tai TRX), kyynärpäät ~45°; (D) korotettu punnerrus (seinä → penkki) asteittain; (E) video sivulta ja ylhäältä (Tuomas/Mikael). Kirjaa mikä variantti on kivuton → siitä benchmark ja ramppi. Jos kipu ei hellitä 2–3 vk:ssa volyymin hallinnasta huolimatta, fysioterapeutin arvio lavan hallinnasta.
+
+**Ennen testiä (to–ma):** ei punnerrusvolyymia; vinopenkki/pystypunnerrus käsipainoilla jatkuvat Visan päätöksen mukaan päätössäännöllä (≤ 3/10, ei pahene).
+
 ## 8. Joustosääntö (Visa 14.10.2026)
 
 Kun viikolle tulee ulkoinen tapahtuma (kaverin treeni, kuntotesti, kisa yms.), **Claude muokkaa viikkoa sen mukaan, ei vastusta sitä:**
