@@ -199,6 +199,22 @@ Visa 11.10.: ylläolevat annokset (8 toistoa, 3 s pito) ovat liian kevyitä ja v
 | 8 | Rintalihas oven karmissa | 3 × 45 s/puoli |
 | 9 | Lonkankoukistaja + kurotus yläviistoon | 3 × 10/puoli, 2 s pito |
 
+#### Laajennettu liikevalikoima (haku 16.10.2026, Visan pyynnöstä: "setti tuntuu kapealta")
+
+**Käyttö:** kierrätä näitä Liikkuvuus C:n (ja B:n) liikkeiden rinnalla viikoittain; sama kohde-mittari (M2/M5/M6/M4), vaihtelu liikkeissä. **Varmuustaso:** ◐ = klinikka-/valmentajaohje tai pieni lähde, ei kontrolloitua näyttöä tähän kohteeseen; videoita en ole katsonut (vain kuvaus/otsikko).
+
+| Liike | Kohde | Annos (ehdotus ✗) | Lähde / video |
+|-------|-------|-------------------|---------------|
+| **Nelinkontin rintarangan kierto (quadruped T-rotation)** | M2/M6 rintarangan kierto | 6–8/puoli, kierto rintarangasta, ei lantiosta | [Dr. David Lee PT (YouTube)](https://www.youtube.com/watch?v=AzCghjjWt5k) ◐ |
+| **Thread the needle** (käsi toisen käsivarren alta, rinta kohti lattiaa) | Rintaranka + lavat/olkapään takaosa | 6–8/puoli, rauhallinen hengitys | [Elite Performance Institute](https://elite-performance-institute.com/exercise-library/thoracic-mobility/thread-the-needle/) ◐ |
+| **Rukousvenytys penkillä / pallolla (prayer stretch, rintarangan ojennus + lat)** | M2 rintarangan ojennus, lat → käsien vienti ylös (M5) | 3–5 × 5 hengitystä, kädet leveästi, kyynärpäät yhdessä, lantio kohti kantapäitä | [Mike Reinold](https://mikereinold.com/simple-thoracic-spine-mobility-exercises-everyone-can-perform/) ◐ (video ei löytynyt) |
+| **Seinäliuku (wall slide), lapojen hallinta** | M5, M6 | 3 × 15, jätä pois jos ärsyttää olkapäätä | [SOS Physiotherapy](https://sosphysiotherapy.ca/weeklyexercises/shoulder-exercise-wall-slide/) ◐ |
+| **Lasten asento, kädet sivulle (lat)** | M5 käsien vienti ylös | 3 × 40 s/puoli | [Child's pose with side reach](https://www.youtube.com/watch?v=YTAwpiX2Dsg) ◐ (kohta 7) |
+| **Takareiden contract-relax (PNF) seinää vasten tai selinmakuulla** | M4 takareisi (suoran jalan nosto) | Venytä → 5–7 s isometrinen painallus kantapäällä → venytä uuteen rajaan, 20–30 s, 2–3 toistoa/jalka | [Prehab Guys](https://library.theprehabguys.com/vimeo-video/hamstring-mobilization/) ◐; [Hempstead-protokolla](https://hempsteadtherapycentre.co.uk/pnf-stretching-technique/) ◐ |
+| **Poikkivartalo-olkapäävenytys (cross-body)** | Olkapään takaosa | 3–5 × 30 s/puoli, kevyt | Kirjallinen ohje ◐ (ei videota) |
+
+**Ei ehdoteta nyt (tarkoituksella):** *Sleeper stretch* — kohdistuu olkapään sisäkiertoon (ei M5:n ylävajeeseen: koukistus/ulkokierto ylhäällä), ja sen sopivuudesta kuntoutuksessa kiistellään (muistuttaa impingement-testiasentoa); lisäksi vasemmassa olkapäässä on SLAP/hauisjänne -historia. Voi harkita fysioterapeutin ohjauksessa. **Staattiset pitkät venytykset (>30–60 s/lihasryhmä) ennen voimatestiä/-treeniä samana päivänä** — akuutti voimantuoton lasku mahdollinen ✗ (ei haettu); tee pitkät venytykset treenin jälkeen tai erillisenä päivänä.
+
 ### Mikroannos työpäivälle — ohjelman perusta
 
 **Tämä on liikkuvuustyön runko, ei lisä** (sovittu 4.9.2026). Perustelu: istumatyö on Visan suurin yksittäinen liikkuvuutta heikentävä tekijä, eikä sitä kumota kerran viikossa. Erilliset sessiot jäävät tekemättä; työpäivään kiinnitetty tapa ei jää.
