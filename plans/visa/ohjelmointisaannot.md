@@ -27,6 +27,8 @@
 15. **Paikat:** viikonloppu ulkosali/koti, arki työpaikan sali/koti (ma Mikael); jokaisessa ehdotuksessa nimetään paikka.
 16. **Päivämäärät:** keskiyön jälkeen tulleet raportit kirjataan **treenipäivälle**, ei raportointipäivälle (virheet 6.–8.10.).
 
+20. **Seuranta ei saa muuttua suorittamiseksi (Visa 17.10.2026):** pidä mielekäs ja positiivinen kehys. Mittaukset harvoin ja kevyesti (liikkuvuus: M2/M4/M5/M6 kvartaalissa; kehonpaino kk, ympärysmitat kvartaali, kehonkoostumus puolivuosittain). Älä lisää mittaus- tai seurantasääntöjä ilman tutkimustukea tai Visan hyväksyntää; merkitse oma päättely ✗ (esim. aiempi "M1–M6 3–4 vk välein" oli oma valintani ilman lähdettä).
+
 ## D. Työtapa (repo ja kansiot)
 
 17. **Kirjaa jokainen raportoitu treeni lokiin ja committaa** (pysyvä lupa); repo on projektin muisti. Kirjaa lokiin myös tuntemukset ja "Seuraava ehdotus".
