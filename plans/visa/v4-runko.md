@@ -10,7 +10,7 @@
 |------|---------|----------------------------------------|
 | **Primääri** | **Lihasmassa ja kehonkoostumus** | Pääliikkeiden toistot × kuorma (kaksoisprogressio), **viikoittaiset sarjat per lihasryhmä** (kohta 3), *avoin: kehonpaino/ympärysmitat kk-seuranta?* |
 | **Pysyvä päätavoite** | **Leuanveto** (paluu 13.1.2025 tasolle: myötäote 20) | Tuore leuanveto asemassa 1 (pe 9.10.: 39 toistoa, 4 sarjaa); kuntotesti leuat |
-| **Sekundäärinen** | **Hyvä olo, ei jumeja (liikkuvuus), peruskunto** | M1–M6 3–4 vk välein; kuntotestit; aerobinen taso (v4: HIIT-slotti) |
+| **Sekundäärinen** | **Hyvä olo, ei jumeja (liikkuvuus), peruskunto** | M2/M4/M5/M6 kerran kvartaalissa (Visa 17.10.); kuntotestit; aerobinen taso (v4: HIIT-slotti) |
 | **Rajoite** | Vammaton eteneminen | Riskirekisteri (kohta 5); ei yhtään "pakotettua" progressiota |
 
 *Kuntotesti on tarkistuspiste, ei ohjelman ohjaaja ([[feedback-macro-over-micro]]).*

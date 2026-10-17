@@ -289,7 +289,7 @@ Kolme asiaa, tärkeysjärjestyksessä *(yleistä käytäntöä + [voimaharjoitte
 
 ## Seuranta
 
-Mittaa **M1–M6 uudelleen 3–4 viikon välein** ja kirjaa tähän. Ensimmäinen uusintamittaus: noin 1.10.2026.
+**Päivitetty 17.10.2026 (Visa):** mitataan **vain kehitettävät mittarit M2, M4, M5, M6 — kerran kvartaalissa** (ei kuukausittain). M1 (nilkka 14 cm, yli tavoitteen) ja M3 (lonkankoukistaja vaakaan) ovat tavoitteessa → mitataan vain jos oire/syy. **Perustelu:** liikelaajuus muuttuu viikkojen–kuukausien skaalalla, ja mittausvirhe on iso (M4 silmämääräinen ±10°, M2/M6 subjektiivisia) → 3–4 viikon muutokset hukkuvat mittauskohinaan ✗ (oma päättely). **Uusi lähtö: la 17.10.2026 (ennen laajennettua ohjelmaa); seuraava ~tammikuu 2027** (sama kvartaali kuin ympärysmitat). Aiempi sääntö "3–4 viikon välein" kumottu.
 
 | Mittari | Lähtö (pvm) | 3–4 vk | 8 vk |
 |---------|-------------|--------|------|
