@@ -22,7 +22,7 @@
 
 11. **Frekvenssi ennen sisältöä; leuanveto päätavoite** (tuore leuanveto asemassa 1 progressiopäivänä).
 12. **Liikkuvuus on oma tavoitealue** — tarkista joka suunnittelukierroksella (Ehdotuslogiikka kohta 7); annokset mitoitetaan tehokkaiksi (täysi Liikkuvuus C ~30–35 min; liikkuvuus-ohjelma.md).
-13. **Variaatio + progressio:** varaa 1 vaihteleva treeni/vko (HIIT/calisthenics) progressioytimen rinnalle; tarkista kaventuuko liikevalikoima. **Sovitut kiintopisteet pidetään** (Ehdotuslogiikka kohta 8): kuntotesti ti 20.10., v4 alkaa 21.10.
+13. **Variaatio + progressio:** varaa 1 vaihteleva treeni/vko (HIIT/calisthenics) progressioytimen rinnalle; tarkista kaventuuko liikevalikoima. **Sovitut kiintopisteet pidetään** (Ehdotuslogiikka kohta 8): kuntotesti **siirtyi ti 20.10. → ti 27.10. (Visa 17.10.)**; v4 alkaa 21.10. tutulla sisällöllä, uudet elementit testin jälkeen (ehdotus, odottaa Visan vahvistusta).
 14. **Joustosääntö (v4-runko kohta 8):** ulkoiset tapahtumat (kaverin treeni, kuntotesti) lasketaan sessioksi ja viikko muokataan niiden mukaan.
 15. **Paikat:** viikonloppu ulkosali/koti, arki työpaikan sali/koti (ma Mikael); jokaisessa ehdotuksessa nimetään paikka.
 16. **Päivämäärät:** keskiyön jälkeen tulleet raportit kirjataan **treenipäivälle**, ei raportointipäivälle (virheet 6.–8.10.).
