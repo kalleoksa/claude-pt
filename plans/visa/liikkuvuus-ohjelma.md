@@ -291,11 +291,13 @@ Kolme asiaa, tärkeysjärjestyksessä *(yleistä käytäntöä + [voimaharjoitte
 
 **Päivitetty 17.10.2026 (Visa):** mitataan **vain kehitettävät mittarit M2, M4, M5, M6 — kerran kvartaalissa** (ei kuukausittain). M1 (nilkka 14 cm, yli tavoitteen) ja M3 (lonkankoukistaja vaakaan) ovat tavoitteessa → mitataan vain jos oire/syy. **Perustelu:** liikelaajuus muuttuu viikkojen–kuukausien skaalalla, ja mittausvirhe on iso (M4 silmämääräinen ±10°, M2/M6 subjektiivisia) → 3–4 viikon muutokset hukkuvat mittauskohinaan ✗ (oma päättely). **Uusi lähtö: la 17.10.2026 (ennen laajennettua ohjelmaa); seuraava ~tammikuu 2027** (sama kvartaali kuin ympärysmitat). Aiempi sääntö "3–4 viikon välein" kumottu. **Tutkimuspohja: ei kummallekaan välille** — "3–4 vk" oli Clauden oma valinta ilman lähdettä (liikkuvuustestit ovat "yleistä käytäntöä", ei repon tutkimusdokumenteista); kvartaaliväli perustuu vain päättelyyn (mittausvirhe vs. muutosten aikaskaala). **Visa 17.10.: seurannan pitää pysyä positiivisena ja mielekkäänä, ei muuttua suorittamiseksi — mittaus on kevyt, harva tarkistuspiste; pääpaino on liikkuvuustyön tekemisessä ja tuntumassa.**
 
-| Mittari | Lähtö (pvm) | 3–4 vk | 8 vk |
+| Mittari | 6.9.2026 (lähtö) | **17.10.2026 (uusi lähtö, ennen laajennettua ohjelmaa)** | ~tammikuu 2027 |
 |---------|-------------|--------|------|
-| M1 nilkka oik/vas | | | |
-| M2 rintaranka | | | |
-| M3 lonkankoukistaja oik/vas | | | |
-| M4 takareisi oik/vas | | | |
-| M5 olkapää oik/vas | | | |
-| M6 ryhti | | | |
+| M1 nilkka oik/vas | ~14 / ~13,5–14 cm ✅ | *(ei mitattu, tavoitteessa)* | |
+| M2 rintaranka | juuri ja juuri, vaati keskittymistä ⚠️ | **alaselkä pysyy maassa "ihan ok"** (Visa) — parempi | |
+| M3 lonkankoukistaja oik/vas | molemmat vaakaan ✅ | *(ei mitattu, tavoitteessa)* | |
+| M4 takareisi oik/vas | ~60–70°, lähempänä 60 ⚠️ | **~70–80°, arvio ~75°** (silmämääräinen ±10°) — parempi, lähellä tavoitetta 80° | |
+| M5 olkapää oik/vas | oik. ~5 cm, vas. 10–15 cm vajaa ⚠️⚠️ | **ei muutosta, vasen "tosi kaukana"** | |
+| M6 ryhti | käsi mahtuu, takaraivo vain kallistamalla ⚠️ | **vähän parempi: käsi mahtuu juuri ja juuri, kallistus pienempi** (Visa) | |
+
+**Tulkinta 17.10. (varmuus ✗, silmämääräiset/subjektiiviset mittarit):** M2, M4 ja M6 ovat suuntaan parempia kuin 6.9. — hyvä merkki, mutta muutokset ovat mittausvirheen sisällä, joten älä lue niistä liikoja. **M5 vasen on pysynyt ennallaan** ja on edelleen ainoa selvä kehityskohde (ks. M5-harjoitteet: olkapään kierto pyyhkeellä/kumilangalla, lat-venytykset, seinäliuku). Visa on arvioinut M5:n arjessa merkityksettömäksi.
