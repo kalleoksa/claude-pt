@@ -127,6 +127,7 @@ Opastavat YouTube-videot liikkeittäin. Yksi hyvä video per liike — tekniikka
 | Nelinkontin rintarangan kierto | [Quadruped Thoracic Rotation (Dr. David Lee PT)](https://www.youtube.com/watch?v=AzCghjjWt5k) *(haku 16.10.2026, ei katsottu)* | Claude |
 | Rukousvenytys (rintarangan ojennus + lat), kyynärpäät sängyn/sohvan/penkin reunalla | [Thoracic Prayer Exercise For Thoracic Extension (Dr. Brian Damhoff)](https://www.youtube.com/watch?v=AavIFBktbDo) · [Thoracic Extension Prayer Stretch (Zenia Wood)](https://www.youtube.com/watch?v=XgPLf5JArI0) *(haku 17.10.2026, ei katsottu)* | Claude |
 | Cross-body olkapäävenytys (olkapään takaosa) | [Cross Body Adduction – Posterior Capsule Stretch (Dr. Sam Schroetke)](https://www.youtube.com/watch?v=KrBCD8Hv-fk) · [Posterior Shoulder Capsule Stretch (Cheryl Obregon PT)](https://www.youtube.com/watch?v=YoZ4O09q6rg) *(haku 17.10.2026, ei katsottu)* | Claude |
+| Takareiden contract-relax (PNF) selin makuulla | [How To: Supine Hamstring PNF (Flexopedia)](https://www.youtube.com/watch?v=JRQBmPRHSYk) · [Hamstring PNF Contract-Relax](https://www.youtube.com/watch?v=5Wi5d2T7JK0) · [Lying Hamstring PNF Stretch](https://www.youtube.com/watch?v=PK_ecalaUOo) *(haku 17.10.2026, ei katsottu)* | Claude |
 | Lonkan heilautus (leg swings) — eteen-taakse ja sivulle | [How To Do Leg Swings](https://www.youtube.com/watch?v=difYoBtZi2s) · [Eteen-taakse erikseen](https://www.youtube.com/watch?v=0XvKtEZ4i38) | Claude |
 
 ### Liikkuvuus B -session videot (lisätty 8.10.2026)
