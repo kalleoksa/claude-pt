@@ -65,7 +65,7 @@ Chin-up kulkee rinnalla noin 1–3 toistoa edellä. Lopullinen vertailukohta on 
 
 ## Testipäivä — suunnitelma (sovittu 31.8.2026, ajankohta siirretty 16.9.2026)
 
-⚠️ **19.9.2026 ei enää testipäivä.** Visa 16.9.: *"kuntotesti siirtyi lokakuulle, ei mennä sen ehdoilla... ei optimoida testien takia, ne tulevat kun tulevat ja jos on tehty systemaattisesti oikeita asioita, niin testitulokset kyllä parantuvat."* Ks. [[feedback-macro-over-micro]] -periaate laajennettuna testiaikatauluihin, ja [blokki-2026-09.md](./blokki-2026-09.md). **Uusi ajankohta: ti 20.10.2026 (Visa 4.10.) → SIIRTYI ti 27.10.2026 (Visa 17.10.: porukkaa kipeänä); ensi viikko (19.–25.10.) normaali. Kevennys: viimeinen kova jalkapäivä viimeistään to 22.10., su 25.–ma 26.10. ei kovaa jalkaa/vetoa.** — ei liikuteta ohjelmaa testiä varten, testi tehdään kun se sopii.
+⚠️ **19.9.2026 ei enää testipäivä.** Visa 16.9.: *"kuntotesti siirtyi lokakuulle, ei mennä sen ehdoilla... ei optimoida testien takia, ne tulevat kun tulevat ja jos on tehty systemaattisesti oikeita asioita, niin testitulokset kyllä parantuvat."* Ks. [[feedback-macro-over-micro]] -periaate laajennettuna testiaikatauluihin, ja [blokki-2026-09.md](./blokki-2026-09.md). **Uusi ajankohta: ti 20.10.2026 (Visa 4.10.) → SIIRTYI ti 27.10.2026 (Visa 17.10.: porukkaa kipeänä) → Visan flunssa → **todennäköisesti ti 3.11.2026 (Visa 24.10.)**. Kevennys: viimeinen kova jalkapäivä viimeistään to 22.10., su 25.–ma 26.10. ei kovaa jalkaa/vetoa.** — ei liikuteta ohjelmaa testiä varten, testi tehdään kun se sopii.
 
 **Alla oleva rakenne (levänneenä, kevennys ennen) pätee edelleen sisällöltään — vain sitova päivämäärä poistuu:**
 
