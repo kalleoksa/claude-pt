@@ -31,6 +31,7 @@
 
 ## D. Työtapa (repo ja kansiot)
 
-17. **Kirjaa jokainen raportoitu treeni lokiin ja committaa** (pysyvä lupa); repo on projektin muisti. Kirjaa lokiin myös tuntemukset ja "Seuraava ehdotus".
+17. **Kirjaa jokainen raportoitu treeni lokiin, committaa JA pushaa** (pysyvä lupa); repo on projektin muisti. Kirjaa lokiin myös tuntemukset ja "Seuraava ehdotus". **Visa 28.10.2026: pushaa aina `origin/main`:iin, jotta muutokset näkyvät myös Kallelle** — 28.10. havaittiin, että 111 committia (9/2026 alkaen) oli jäänyt vain paikalliseksi. Tarkista istunnon lopuksi `git status -sb`: ei untracked-tiedostoja eikä "ahead"-tilaa.
+21. **Lue koko treeniloki ennen jokaista treeniehdotusta (Visa 28.10.2026)** — ei vain ylintä riviä tai muistin tiivistelmää. Lokin järjestys: uusin ylimpänä; ehdotukset, joita ei ole vielä tehty, merkitään *(EHDOTUS)* ja korvataan toteumalla.
 18. **Sallitut kansiot vain `C:\AI` (alakansioineen) ja `C:\ennustemalli`.** Ei `C:\Visa\**`, ei `C:\Users\Visa Paulanto\...`, ei Downloads/Temp. Anna aina eksplisiittiset `C:\AI\...`-polut; älä käytä session oletustyöhakemistoa (Visa 14.10.2026).
 19. **Kirjoita treenit valmiiksi auki** (lämmittely + sarjat/toistot/kuormat/RIR/tauko) pyydettäessä; Visa ottaa usein kuvakaappauksen.
