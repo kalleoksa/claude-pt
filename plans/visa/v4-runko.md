@@ -43,6 +43,8 @@ Repossa ei ole ollut selkeää viikkosarjatavoitetta per lihasryhmä, vaikka pri
 
 ## 5. Riskirekisteri (vamma-ennaltaehkäisy)
 
+> **Visa 29.10.2026: "ei rajoitteita kyynärpään, olkapään tai polven suhteen".** Alla olevat säännöt ovat siitä lähtien **seurantaa, eivät ennakkorajoitteita**: liikkeitä ei jätetä pois vammahistorian takia, mutta oire (kipu > 3/10 tai pahenee) → kyseinen liike kevennetään ja kirjataan. Pistol palaa ohjelmaan (taitoliike tuoreena, erillisinä sarjoina — laatusääntö pysyy). Kyynärpää: ojentajan eristävä liike sallittu (ks. [viikkosarjat.md](./viikkosarjat.md) osio 5). Kyykkylaitteen asentotarkistus ennen tangon alle menoa pysyy (turvallisuustarkistus, ei rajoite).
+
 | Alue | Historia | Ohjelmointisääntö |
 |------|----------|-------------------|
 | **Vasen polvi** (ACL leikattu) | 14.10.2026 oire pistolissa väsyneenä | **Pistol tauolla**; paluu kalibroituna, tuoreena, erillisinä sarjoina; yhden jalan kuormitus ensin sessiossa; ei hyppyjä/juoksua jos oire |

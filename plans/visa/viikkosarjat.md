@@ -71,3 +71,39 @@
 **Käyttöönotto (v4-runko kohta 4: yksi uusi elementti kerrallaan):** vk 1 (alk. 4.11.) hauiskääntö 2×/vko (ei uusi liike) · vk 2 sivunosto · vk 3 yhden jalan lantionnosto · nordic curl v4-suunnitelman mukaan.
 
 **Seuranta:** Claude laskee viikkosarjat viikkokatselmuksessa lokista — **Visan ei tarvitse laskea mitään** (seuranta ei saa muuttua suorittamiseksi, ohjelmointisaannot 20).
+
+## 5. PÄÄTÖS (Visa 29.10.2026) — hyväksytty v4:n pohjaksi, muutoksin
+
+Visa: *"ei rajoitteita esim. kyynärpään, olkapään tai polven suhteen, mutta pidetään iso kuva mielessä — pyritään pitämään lihastasapaino kunnossa."* **Seuraus:** osion 4 vammaperusteiset varaukset (rinta vasta punnerrusselvityksen jälkeen, ojentaja avoin) poistuvat. Vammahistoria on **seurantaa, ei ennakkorajoite** — jos oire (kipu > 3/10 tai pahenee), kyseinen liike kevennetään.
+
+### Lopulliset tavoitteet (fractional-sarjaa/vko; numerot ✗, suunta Visan hyväksymä)
+
+| Lihasryhmä | Nyt | **Tavoite** | Miten |
+|---|---|---|---|
+| Selkä | ~13 | **~13** | ennallaan (leuanveto 2×/vko, alatalja/inverted row) |
+| Takaolkapää | ~9 | **~9** | face pull ennallaan |
+| **Rinta** | 3 | **~7–8** | vinopenkki pe 3 sarjaa **+ toinen rintapainotteinen annos ma 3 sarjaa** (vinopenkki/punnerrus vuorotellen) |
+| Etuolkapää | 4,5 | **~7** | tulee pystypunnerruksesta + rintaliikkeistä, ei erillistä liikettä |
+| **Sivuolkapää** | 1,5 | **~7–8** | sivunosto KP 3 sarjaa × 2/vko |
+| **Ojentaja** | 3 | **~7** | eristävä ojentajaliike 3 sarjaa × 1/vko (liike valitaan [kalusto.md](./kalusto.md):sta käyttöönottoviikolla) + epäsuora |
+| **Hauis** | ~7 | **~12–13** | hauiskääntö 3 sarjaa × 2/vko |
+| Etureisi | 5–12 | **~10** | 2 jalkapäivää/vko (askelkyykky, kyykkylaite; **pistol palaa** tuoreena, erillisinä sarjoina) |
+| **Pakara** | ~4 | **~7–8** | yhden jalan lantionnosto 3 sarjaa × 1/vko + jalkaliikkeet |
+| Takareisi | 3–6 | **~7–8** | TRX curl 2×/vko + nordic curl |
+| Pohje | 0 | — | ei tavoitetta (pyöräily) |
+
+### Lihastasapaino (tarkistetaan viikkokatselmuksessa)
+
+| Pari | Nyt | Tavoite | Peruste |
+|---|---|---|---|
+| **Veto : työntö** (selkä vs. rinta + pystypunnerrus, suorat sarjat) | 13 : 6 ≈ **2 : 1** | 13 : ~9–10 ≈ **1,3 : 1** | Veto hieman työntöä enemmän olkapääterveyden vuoksi ✗ (yleinen käytäntö, ei repon lähteistä); leuanveto päätavoite pitää vedon korkeana |
+| **Hauis : ojentaja** | 7 : 3 | ~12 : ~7 | Ojentaja on suurempi osa olkavarren massaa ✗ → ei saa jäädä nollaan |
+| **Etureisi : takareisi** | 5–12 : 3–6 | ~10 : ~7–8 | Takareisi alimitoitettu + M4-kireys + ACL-historia → takareisityö perusteltua |
+| **Etuolka : sivuolka : takaolka** | 4,5 : 1,5 : 9 | ~7 : ~7 : ~9 | Sivuolka puuttui lähes kokonaan |
+
+### Käyttöönotto (v4-runko kohta 4: yksi UUSI liike/viikko — tämä on laatusääntö, ei vammarajoite)
+
+- **Vk 1 (alk. ke 4.11.):** hauiskääntö 2×/vko, toinen rinta-annos ma, yhden jalan lantionnosto, 2 jalkapäivää, pistol takaisin *(ei uusia liikkeitä — kaikki tehty aiemmin)* + **uusi: nordic curl** (jo v4-suunnitelmassa, ensiannos 2 × 5)
+- **Vk 2:** + sivunosto
+- **Vk 3:** + ojentajan eristävä liike
+- **Vk 4:** kuukausikatselmus — toteutuneet viikkosarjat vs. tavoite, tasapainotaulukko
